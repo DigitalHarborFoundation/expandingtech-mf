@@ -1,11 +1,17 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-const TestLesson = () => (
+const TestLesson = ({ data }) => (
   <div>
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <main>
+      <p>
+        <h1>{data.wordpressWpLessons.title}</h1>
+        <p
+          dangerouslySetInnerHTML={{ __html: data.wordpressWpLessons.content }}
+        />
+      </p>
+      <Link to="/">Go back to the homepage</Link>
+    </main>
   </div>
 )
 
@@ -18,6 +24,7 @@ export const lessonsQuery = graphql`
       wordpress_id
       title
       slug
+      content
     }
   }
 `
