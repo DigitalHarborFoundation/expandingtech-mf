@@ -10,3 +10,14 @@ const TestLesson = () => (
 )
 
 export default TestLesson
+
+export const lessonsQuery = graphql`
+  query queryLesson {
+    wordpressWpLessons(wordpress_id: { eq: 25 }) {
+      id
+      wordpress_id
+      title
+      slug
+    }
+  }
+`
