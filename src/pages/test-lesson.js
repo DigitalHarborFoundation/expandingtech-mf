@@ -26,6 +26,18 @@ const LessonContainer = styled.main`
   img: hover {
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
   }
+
+  a {
+    color: black;
+    border-bottom: 2px solid #0091c9;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #0091c9;
+    text-decoration: none;
+    border-bottom: none;
+  }
 `
 
 const LessonTitle = styled.h1`
