@@ -3,6 +3,7 @@ module.exports = {
     title: 'External Maker Foundations Test Sandbox',
   },
   plugins: [
+    'gatsby-plugin-styled-components',
     {
       resolve: `gatsby-source-wordpress`,
       options: {

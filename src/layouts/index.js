@@ -23,7 +23,6 @@ const Layout = ({ children, data }) => (
         paddingTop: 0,
       }}
     >
-      <h2>Lessons</h2>
       {children()}
     </div>
   </div>
