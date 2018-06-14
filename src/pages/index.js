@@ -3,15 +3,19 @@ import LessonListing from '../components/Lessons/LessonListing'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
 
-const IndexPage = ({ data }) => (
-  <div>
-    <PageContainer>
-      {data.allWordpressWpLessons.edges.reverse().map(({ node }) => {
-        return <LessonListing lesson={node} key={node.wordpress_id} />
-      })}
-    </PageContainer>
-  </div>
-)
+const IndexPage = ({ data }) => {
+  const test = [data.allWordpressWpLessons.edges]
+  const revTest = test.reverse()
+  return (
+    <div>
+      <PageContainer>
+        {data.allWordpressWpLessons.edges.map(({ node }) => {
+          return <LessonListing lesson={node} key={node.wordpress_id} />
+        })}
+      </PageContainer>
+    </div>
+  )
+}
 
 const PageContainer = styled.div`
   display: flex;
