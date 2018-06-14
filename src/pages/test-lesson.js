@@ -28,15 +28,14 @@ const LessonContainer = styled.main`
   }
 
   a {
-    color: black;
-    border-bottom: 2px solid #0091c9;
-    text-decoration: none;
+    color: #0091c9;
   }
 
   a:hover {
-    color: #0091c9;
+    color: black;
     text-decoration: none;
     border-bottom: none;
+    transition: color 0.5s ease;
   }
 `
 
