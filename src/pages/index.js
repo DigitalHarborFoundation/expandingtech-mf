@@ -1,8 +1,10 @@
 import React from 'react'
 import LessonListing from '../components/Lessons/LessonListing'
+import Link from 'gatsby-link'
 
 const IndexPage = ({ data }) => (
   <div>
+    <Link to="/test-lesson">Test lesson</Link>
     {data.allWordpressWpLessons.edges.reverse().map(({ node }) => {
       return <LessonListing lesson={node} key={node.wordpress_id} />
     })}
