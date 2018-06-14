@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import Header from '../components/header'
-import Sidebar from '../components/sidebar/Sidebar'
+import Navbar from '../components/navbar/Navbar'
 import './index.css'
 
 const Layout = ({ children, data, location }) => (
@@ -18,9 +18,9 @@ const Layout = ({ children, data, location }) => (
     {location.pathname === '/' ? (
       <Header siteTitle={data.site.siteMetadata.title} />
     ) : (
-      <div />
+      <Navbar />
     )}
-    <Sidebar />
+
     <div
       style={{
         margin: '0 auto',
@@ -49,7 +49,7 @@ export const query = graphql`
     }
   }
 
-  query queryLessonsSidebar {
+  query queryLessonsNavbar {
     allWordpressWpLessons(filter: { lesson_tag: { eq: 318 } }) {
       edges {
         node {
