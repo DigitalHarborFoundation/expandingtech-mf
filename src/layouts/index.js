@@ -56,6 +56,7 @@ export const query = graphql`
           wordpress_id
           title
           excerpt
+          slug
         }
       }
     }

@@ -27,6 +27,7 @@ export const lessonsQuery = graphql`
           wordpress_id
           title
           excerpt
+          slug
         }
       }
     }

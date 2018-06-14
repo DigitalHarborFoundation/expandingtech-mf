@@ -15,7 +15,7 @@ export default TestLessonTwo
 
 export const lessonsQuery = graphql`
   query queryLessonTwo {
-    wordpressWpLessons(wordpress_id: { eq: 25 }) {
+    wordpressWpLessons(wordpress_id: { eq: 85 }) {
       id
       wordpress_id
       title

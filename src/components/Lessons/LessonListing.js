@@ -5,7 +5,9 @@ const LessonListing = ({ lesson }) => {
   return (
     <div>
       <div>
-        <h3>{lesson.title}</h3>
+        <Link to={lesson.slug}>
+          <h3>{lesson.title}</h3>
+        </Link>
         <article dangerouslySetInnerHTML={{ __html: lesson.excerpt }} />
       </div>
     </div>
