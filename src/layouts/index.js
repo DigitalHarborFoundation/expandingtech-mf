@@ -1,11 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
-
 import Header from '../components/header'
+import Sidebar from '../components/sidebar/Sidebar'
 import './index.css'
 
-const Layout = ({ children, data }) => (
+const Layout = ({ children, data, location }) => (
   <div>
     <Helmet
       title={data.site.siteMetadata.title}
@@ -14,7 +14,13 @@ const Layout = ({ children, data }) => (
         { name: 'keywords', content: 'sample, something' },
       ]}
     />
-    <Header siteTitle={data.site.siteMetadata.title} />
+
+    {location.pathname === '/' ? (
+      <Header siteTitle={data.site.siteMetadata.title} />
+    ) : (
+      <div />
+    )}
+    <Sidebar />
     <div
       style={{
         margin: '0 auto',
@@ -39,6 +45,18 @@ export const query = graphql`
     site {
       siteMetadata {
         title
+      }
+    }
+  }
+
+  query queryLessonsSidebar {
+    allWordpressWpLessons(filter: { lesson_tag: { eq: 318 } }) {
+      edges {
+        node {
+          wordpress_id
+          title
+          excerpt
+        }
       }
     }
   }
