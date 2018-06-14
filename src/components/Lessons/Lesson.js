@@ -1,5 +1,4 @@
 import React from 'react'
-import Link from 'gatsby-link'
 import styled from 'styled-components'
 
 const Lesson = ({ lesson }) => (
@@ -7,7 +6,6 @@ const Lesson = ({ lesson }) => (
     <LessonContainer>
       <LessonTitle>{lesson.title}</LessonTitle>
       <LessonCopy dangerouslySetInnerHTML={{ __html: lesson.content }} />
-      <Link to="/">Go back to the homepage</Link>
     </LessonContainer>
   </div>
 )

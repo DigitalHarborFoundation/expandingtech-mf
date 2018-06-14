@@ -1,5 +1,4 @@
 import React from 'react'
-import Link from 'gatsby-link'
 import styled from 'styled-components'
 
 const TestLesson = ({ data }) => (
@@ -9,7 +8,6 @@ const TestLesson = ({ data }) => (
       <LessonCopy
         dangerouslySetInnerHTML={{ __html: data.wordpressWpLessons.content }}
       />
-      <Link to="/">Go back to the homepage</Link>
     </LessonContainer>
   </div>
 )

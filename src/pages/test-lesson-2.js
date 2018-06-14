@@ -1,10 +1,14 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import styled from 'styled-components'
 import Lesson from '../components/Lessons/Lesson'
 
 const TestLessonTwo = ({ data }) => {
-  return <Lesson lesson={data.wordpressWpLessons} />
+  return (
+    <div>
+      <Lesson lesson={data.wordpressWpLessons} />
+      <Link to="/">Go back to the homepage</Link>
+    </div>
+  )
 }
 
 export default TestLessonTwo
