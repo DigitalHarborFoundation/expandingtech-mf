@@ -23,18 +23,6 @@ const SiteNavContainer = styled.div`
   border: 2px solid #ffffff;
   padding: 0px;
   margin: 0px;
-
-  a {
-    color: white;
-    text-decoration: none;
-  }
-
-  a:hover {
-    color: black;
-    text-decoration: none;
-    border-bottom: none;
-    transition: color 0.5s ease;
-  }
 `
 
 const SiteNavList = styled.ul`
@@ -48,4 +36,13 @@ const SiteNavEntry = styled(Link)`
   padding: 10px;
   margin-bottom: 0px;
   margin-left: 0px;
+  color: white;
+  text-decoration: none;
+
+  &:hover {
+    color: black;
+    text-decoration: none;
+    border-bottom: none;
+    transition: color 0.5s ease;
+  }
 `

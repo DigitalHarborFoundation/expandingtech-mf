@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Digital Harbor Foundations: Maker Foundations',
+    title: 'Digital Harbor Foundation: Maker Foundations',
   },
   plugins: [
     'gatsby-plugin-styled-components',

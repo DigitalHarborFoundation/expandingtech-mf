@@ -1,7 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
-import Header from '../components/header'
+import Header from '../components/Header'
+import CourseNavbar from '../components/navbars/CourseNavbar'
 import styled from 'styled-components'
 import './index.css'
 
@@ -15,16 +16,10 @@ const Layout = ({ children, data, location }) => (
       ]}
     />
     <Header siteTitle={data.site.siteMetadata.title} />
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '0px 1.0875rem 1.45rem',
-        paddingTop: 0,
-      }}
-    >
-      {children()}
-    </div>
+    <ContentContainer>
+      <CourseNavbar />
+      <LessonContentContainer> {children()} </LessonContentContainer>
+    </ContentContainer>
   </MainContainer>
 )
 
@@ -36,6 +31,25 @@ export default Layout
 
 const MainContainer = styled.div`
   display: grid;
+`
+
+const ContentContainer = styled.div`
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  grid-template-areas:
+    'sidebar content'
+    'sidebar footer';
+`
+
+const LessonContentContainer = styled.article`
+  display: flex;
+  flex-direction: column;
+  grid-area: content;
+  margin-top: 0px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  padding-top: 20px;
 `
 
 export const query = graphql`
