@@ -1,33 +1,35 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import styled from 'styled-components'
 
 const Header = ({ siteTitle }) => (
-  <div
-    style={{
-      background: '#0091c9',
-      marginBottom: '1.45rem',
-    }}
-  >
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '1.45rem 1.0875rem',
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: 'white',
-            textDecoration: 'none',
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
+  <Masthead>
+    <div>
+      <SiteTitle>{siteTitle}</SiteTitle>
     </div>
-  </div>
+  </Masthead>
 )
 
 export default Header
+
+const Masthead = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #0091c9;
+`
+const SiteTitle = styled.p`
+  display: flex;
+  align-items: center;
+  font-size: 2.25rem;
+  color: #ffffff;
+  padding: 0px;
+  margin: 0px;
+
+  @media only screen and (max-width: 1000px) {
+    font-size: 1.5rem;
+    margin-left: 50px;
+  }
+`

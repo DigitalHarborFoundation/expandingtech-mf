@@ -3,10 +3,11 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import Header from '../components/header'
 import Navbar from '../components/navbar/Navbar'
+import styled from 'styled-components'
 import './index.css'
 
 const Layout = ({ children, data, location }) => (
-  <div>
+  <MainContainer>
     <Helmet
       title={data.site.siteMetadata.title}
       meta={[
@@ -14,13 +15,8 @@ const Layout = ({ children, data, location }) => (
         { name: 'keywords', content: 'sample, something' },
       ]}
     />
-
-    {location.pathname === '/' ? (
-      <Header siteTitle={data.site.siteMetadata.title} />
-    ) : (
-      <Navbar />
-    )}
-
+    <Header siteTitle={data.site.siteMetadata.title} />
+    <Navbar />
     <div
       style={{
         margin: '0 auto',
@@ -31,7 +27,7 @@ const Layout = ({ children, data, location }) => (
     >
       {children()}
     </div>
-  </div>
+  </MainContainer>
 )
 
 Layout.propTypes = {
@@ -39,6 +35,10 @@ Layout.propTypes = {
 }
 
 export default Layout
+
+const MainContainer = styled.div`
+  display: grid;
+`
 
 export const query = graphql`
   query SiteTitleQuery {

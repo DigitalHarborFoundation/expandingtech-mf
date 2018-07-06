@@ -30,7 +30,7 @@ const NavContainer = styled.div`
     font-size: 1.5rem;
   }
 
-  a: hover {
+  a:hover {
     color: black;
     text-decoration: none;
     border-bottom: none;
