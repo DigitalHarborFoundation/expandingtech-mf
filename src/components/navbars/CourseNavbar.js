@@ -7,8 +7,15 @@ const CourseNavbar = ({ props }) => {
     <CourseNavbarContainer>
       <CourseNavbarNav>
         <CourseNavList>
-          <CourseNavEntry>Placeholder 1</CourseNavEntry>
-          <CourseNavEntry>Placeholder 2</CourseNavEntry>
+          <ModuleTitle>Module One</ModuleTitle>
+          <ul>
+            <CourseNavEntry>
+              <CourseNavLink>Placeholder 1</CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink>Placeholder 2</CourseNavLink>
+            </CourseNavEntry>
+          </ul>
         </CourseNavList>
       </CourseNavbarNav>
     </CourseNavbarContainer>
@@ -32,22 +39,34 @@ const CourseNavbarNav = styled.nav`
 `
 
 const CourseNavList = styled.ul`
-  margin: 0px;
+  margin-left: 1.45rem;
   padding: 5px;
 `
+const CourseNavEntry = styled.li`
+  list-style-type: none;
+  padding-bottom: 5px;
+  margin-bottom: 0px;
+`
 
-const CourseNavEntry = styled(Link)`
+const CourseNavLink = styled(Link)`
   list-style-type: none;
   padding-bottom: 5px;
   margin-bottom: 0px;
   margin-left: 0px;
   color: #0091c9;
   text-decoration: none;
+  transition: color 1s ease;
 
   &:hover {
     color: black;
     text-decoration: none;
     border-bottom: none;
-    transition: color 0.5s ease;
   }
+`
+
+const ModuleTitle = styled.p`
+  margin-bottom: 10px;
+  margin-left: 0px;
+  font-size: 1.25rem;
+  font-weight: bolder;
 `
