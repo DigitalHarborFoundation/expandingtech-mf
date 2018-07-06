@@ -5,9 +5,11 @@ import styled from 'styled-components'
 const SiteNavbar = ({ props }) => {
   return (
     <SiteNavContainer>
-      <SiteNavEntry to="/">Home</SiteNavEntry>
-      <SiteNavEntry to="/introduction">Course</SiteNavEntry>
-      <SiteNavEntry to="/maker-warm-up">About</SiteNavEntry>
+      <SiteNavList>
+        <SiteNavEntry to="/">Home</SiteNavEntry>
+        <SiteNavEntry to="/introduction">Course</SiteNavEntry>
+        <SiteNavEntry to="/maker-warm-up">About</SiteNavEntry>
+      </SiteNavList>
     </SiteNavContainer>
   )
 }
@@ -23,10 +25,8 @@ const SiteNavContainer = styled.div`
   margin: 0px;
 
   a {
-    margin: 20px;
     color: white;
     text-decoration: none;
-    font-size: 1.5rem;
   }
 
   a:hover {
@@ -35,6 +35,11 @@ const SiteNavContainer = styled.div`
     border-bottom: none;
     transition: color 0.5s ease;
   }
+`
+
+const SiteNavList = styled.ul`
+  margin: 0px;
+  padding: 5px;
 `
 
 const SiteNavEntry = styled(Link)`

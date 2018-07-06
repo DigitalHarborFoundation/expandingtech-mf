@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'External Maker Foundations Test Sandbox',
+    title: 'Digital Harbor Foundations: Maker Foundations',
   },
   plugins: [
     'gatsby-plugin-styled-components',
