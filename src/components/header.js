@@ -1,12 +1,14 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
+import SiteNavbar from '../components/navbars/SiteNavbar'
+import SiteLogo from '../components/SiteLogo'
 
 const Header = ({ siteTitle }) => (
   <Masthead>
-    <div>
-      <SiteTitle>{siteTitle}</SiteTitle>
-    </div>
+    <SiteNavbar />
+    <SiteTitle>{siteTitle}</SiteTitle>
+    <SiteLogo />
   </Masthead>
 )
 
