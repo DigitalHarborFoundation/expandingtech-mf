@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import Lesson from '../components/Lessons/Lesson'
 
-const TestLessonTwo = ({ data }) => {
+const LessonFour = ({ data }) => {
   return (
     <div>
       <Lesson lesson={data.wordpressWpLessons} />
@@ -11,11 +11,11 @@ const TestLessonTwo = ({ data }) => {
   )
 }
 
-export default TestLessonTwo
+export default LessonFour
 
 export const lessonsQuery = graphql`
-  query queryLessonThree {
-    wordpressWpLessons(wordpress_id: { eq: 647 }) {
+  query queryLessonFour {
+    wordpressWpLessons(wordpress_id: { eq: 4941 }) {
       id
       wordpress_id
       title

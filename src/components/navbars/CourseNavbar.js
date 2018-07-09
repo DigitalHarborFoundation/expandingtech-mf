@@ -7,13 +7,27 @@ const CourseNavbar = ({ props }) => {
     <CourseNavbarContainer>
       <CourseNavbarNav>
         <CourseNavList>
-          <ModuleTitle>Module One</ModuleTitle>
+          <ModuleTitle>Orientation</ModuleTitle>
           <ul>
             <CourseNavEntry>
-              <CourseNavLink>Placeholder 1</CourseNavLink>
+              <CourseNavLink to="/introduction">
+                Welcome to Maker Foundations
+              </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink>Placeholder 2</CourseNavLink>
+              <CourseNavLink to="/maker-warm-up">
+                We Are All Makers
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/best-practices">
+                Best Practices for Success
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/setting-up-gmail">
+                Setting Up Gmail
+              </CourseNavLink>
             </CourseNavEntry>
           </ul>
           <ModuleTitle>Module Two</ModuleTitle>

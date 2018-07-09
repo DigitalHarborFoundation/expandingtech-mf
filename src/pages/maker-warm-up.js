@@ -14,7 +14,7 @@ const TestLessonTwo = ({ data }) => {
 export default TestLessonTwo
 
 export const lessonsQuery = graphql`
-  query queryLessonThree {
+  query queryLessonTwo {
     wordpressWpLessons(wordpress_id: { eq: 85 }) {
       id
       wordpress_id
