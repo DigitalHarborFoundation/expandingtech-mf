@@ -48,6 +48,19 @@ const CourseNavbar = ({ props }) => {
               </CourseNavLink>
             </CourseNavEntry>
           </ul>
+          <ModuleTitle>Project Planning</ModuleTitle>
+          <ul>
+            <CourseNavEntry>
+              <CourseNavLink to="/design-process">
+                The Design Process
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/project-planning">
+                Project Planning
+              </CourseNavLink>
+            </CourseNavEntry>
+          </ul>
         </CourseNavList>
       </CourseNavbarNav>
     </CourseNavbarContainer>
