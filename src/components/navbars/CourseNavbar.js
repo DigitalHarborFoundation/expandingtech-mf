@@ -30,13 +30,22 @@ const CourseNavbar = ({ props }) => {
               </CourseNavLink>
             </CourseNavEntry>
           </ul>
-          <ModuleTitle>Module Two</ModuleTitle>
+          <ModuleTitle>Digital Communication</ModuleTitle>
           <ul>
             <CourseNavEntry>
-              <CourseNavLink>Placeholder 1</CourseNavLink>
+              <CourseNavLink to="/effective-email">
+                Effective Email
+              </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink>Placeholder 2</CourseNavLink>
+              <CourseNavLink to="/google-drive-google-docs">
+                Google Drive & Google Docs
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/get-to-know-your-browser">
+                Get to Know Your Browser
+              </CourseNavLink>
             </CourseNavEntry>
           </ul>
         </CourseNavList>
