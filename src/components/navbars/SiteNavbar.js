@@ -8,7 +8,7 @@ const SiteNavbar = ({ props }) => {
       <SiteNavList>
         <SiteNavEntry to="/">Home</SiteNavEntry>
         <SiteNavEntry to="/introduction">Course</SiteNavEntry>
-        <SiteNavEntry to="/maker-warm-up">About</SiteNavEntry>
+        <SiteNavEntry to="/about">About</SiteNavEntry>
       </SiteNavList>
     </SiteNavContainer>
   )

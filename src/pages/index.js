@@ -2,50 +2,12 @@ import React from 'react'
 import LessonListing from '../components/Lessons/LessonListing'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
+import mfLogo from './maker-foundations-featured-img.png'
 
 const IndexPage = ({ data }) => {
-  const test = [data.allWordpressWpLessons.edges]
-
-  {
-    /*
   return (
     <div>
-      <PageContainer>
-        {data.allWordpressWpLessons.edges.map(({ node }) => {
-          return <LessonListing lesson={node} key={node.wordpress_id} />
-        })}
-      </PageContainer>
-    </div>
-  )
-
-  return (
-    <div>
-      <div>
-        <Link to={lesson.slug}>
-          <h3>{lesson.title}</h3>
-        </Link>
-        <article dangerouslySetInnerHTML={{ __html: lesson.excerpt }} />
-      </div>
-    </div>
-  )
-*/
-  }
-
-  return (
-    <div>
-      <PageContainer>
-        <div>
-          <StyledLink to={'/introduction.js'}>
-            <h2>Welcome to the Tech Center</h2>
-          </StyledLink>
-          <p>
-            Welcome to Maker Foundations! In this lesson, participants will
-            become oriented to the learning space and the expectations for
-            working in the space. You will get a tour of the Tech Center and
-            review the program as well as meet the people in your cohort.
-          </p>
-        </div>
-      </PageContainer>
+      Placeholder content! We should figure out what to add to this main page...
     </div>
   )
 }

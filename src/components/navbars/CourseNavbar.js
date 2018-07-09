@@ -16,6 +16,15 @@ const CourseNavbar = ({ props }) => {
               <CourseNavLink>Placeholder 2</CourseNavLink>
             </CourseNavEntry>
           </ul>
+          <ModuleTitle>Module Two</ModuleTitle>
+          <ul>
+            <CourseNavEntry>
+              <CourseNavLink>Placeholder 1</CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink>Placeholder 2</CourseNavLink>
+            </CourseNavEntry>
+          </ul>
         </CourseNavList>
       </CourseNavbarNav>
     </CourseNavbarContainer>
