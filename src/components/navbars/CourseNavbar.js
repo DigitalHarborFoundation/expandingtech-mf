@@ -61,6 +61,34 @@ const CourseNavbar = ({ props }) => {
               </CourseNavLink>
             </CourseNavEntry>
           </ul>
+          <ModuleTitle>Maker Documentation</ModuleTitle>
+          <ul>
+            <CourseNavEntry>
+              <CourseNavLink to="/why-documentation-is-important">
+                Why Documentation Is Important
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/documenting-with-google-drive">
+                Documenting With Google Drive
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/documentation-methods-photos-video">
+                Documentation Methods: Photos and Video
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/documentation-methods-makers-reflection">
+                Documentation Methods: Maker's Reflections
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/document-your-first-project">
+                Document Your First Project
+              </CourseNavLink>
+            </CourseNavEntry>
+          </ul>
         </CourseNavList>
       </CourseNavbarNav>
     </CourseNavbarContainer>
