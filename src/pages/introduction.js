@@ -7,6 +7,7 @@ const TestLessonOne = ({ data }) => {
     <div>
       <Lesson lesson={data.wordpressWpLessons} />
       <Link to="/">Go back to the homepage</Link>
+      <Link to="/best-practices">Next Lesson</Link>
     </div>
   )
 }

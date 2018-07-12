@@ -6,6 +6,7 @@ const TestLessonTwo = ({ data }) => {
   return (
     <div>
       <Lesson lesson={data.wordpressWpLessons} />
+      <Link to="/introduction">Previous Lesson</Link>
       <Link to="/">Go back to the homepage</Link>
     </div>
   )
