@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Lesson from '../components/Lessons/Lesson'
+import Footer from '../components/Footer'
 
 const TestLessonTwo = ({ data }) => {
   return (
@@ -8,6 +9,7 @@ const TestLessonTwo = ({ data }) => {
       <Lesson lesson={data.wordpressWpLessons} />
       <Link to="/introduction">Previous Lesson</Link>
       <Link to="/">Go back to the homepage</Link>
+      <Footer navLinks={{ prev: '/maker-warm-up', next: '/' }} />
     </div>
   )
 }

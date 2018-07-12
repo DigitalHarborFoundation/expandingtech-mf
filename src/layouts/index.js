@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import Header from '../components/Header'
 import CourseNavbar from '../components/navbars/CourseNavbar'
+import Footer from '../components/Footer'
 import styled from 'styled-components'
 import './index.css'
 
