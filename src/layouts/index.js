@@ -55,15 +55,12 @@ const LessonContentContainer = styled.article`
 `
 
 export const query = graphql`
-  query SiteTitleQuery {
+  query SiteTitleQueryAndQueryLessonsNavbar {
     site {
       siteMetadata {
         title
       }
     }
-  }
-
-  query queryLessonsNavbar {
     allWordpressWpLessons(filter: { lesson_tag: { eq: 318 } }) {
       edges {
         node {
