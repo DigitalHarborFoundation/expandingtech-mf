@@ -2,10 +2,9 @@ import React from 'react'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
 
-const Footer = ({ navLinks }) => (
+const Footer = () => (
   <FooterContainer>
-    <Link to={navLinks.prev}>Previous Lesson</Link>
-    <Link to={navLinks.next}>Next Lesson</Link>
+    <SiteCopyright>Copyright 2018 Digital Harbor Foundation</SiteCopyright>
   </FooterContainer>
 )
 
@@ -14,8 +13,16 @@ export default Footer
 const FooterContainer = styled.div`
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   align-items: center;
+  justify-content: center;
   padding: 20px;
   background-color: #0091c9;
+`
+
+const SiteCopyright = styled.span`
+  display: flex;
+  font-size: 1rem;
+  color: #ffffff;
+  padding: 0px;
+  margin: 0px;
 `

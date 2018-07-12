@@ -21,6 +21,7 @@ const Layout = ({ children, data, location }) => (
       <CourseNavbar />
       <LessonContentContainer> {children()} </LessonContentContainer>
     </ContentContainer>
+    <Footer />
   </MainContainer>
 )
 
