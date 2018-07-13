@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import Lesson from '../components/Lessons/Lesson'
+import Lesson from '../components/lessons/Lesson'
 
 const LessonFour = ({ data }) => {
   return (
