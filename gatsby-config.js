@@ -2,8 +2,10 @@ module.exports = {
   siteMetadata: {
     title: 'Digital Harbor Foundation: Maker Foundations',
   },
+  pathPrefix: '/',
   plugins: [
     'gatsby-plugin-styled-components',
+    'gatsby-plugin-netlify',
     {
       resolve: `gatsby-source-wordpress`,
       options: {
