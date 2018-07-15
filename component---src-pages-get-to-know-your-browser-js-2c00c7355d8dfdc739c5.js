@@ -1,0 +1,2 @@
+webpackJsonp([0xaa4fd7172a7b],{222:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.lessonsQuery=void 0;var n=a(1),s=l(n),u=a(6),r=l(u),o=a(9),d=l(o),f=function(e){var t=e.data;return s.default.createElement("div",null,s.default.createElement(d.default,{lesson:t.wordpressWpLessons}),s.default.createElement(r.default,{to:"/"},"Go back to the homepage"))};t.default=f;t.lessonsQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-get-to-know-your-browser-js-2c00c7355d8dfdc739c5.js.map
