@@ -7,6 +7,7 @@ const LessonListing = ({ lesson }) => {
       <div>
         <Link to={lesson.slug}>
           <h3>{lesson.title}</h3>
+          <h4>Fix!</h4>
         </Link>
         <article dangerouslySetInnerHTML={{ __html: lesson.excerpt }} />
       </div>
