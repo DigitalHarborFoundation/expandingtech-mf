@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Digital Harbor Foundation: Maker Foundations',
   },
-  pathPrefix: '/',
+  pathPrefix: '/dhf-learn-gatsby-test/',
   plugins: [
     'gatsby-plugin-styled-components',
     'gatsby-plugin-netlify',
