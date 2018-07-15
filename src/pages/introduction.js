@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import Lesson from '../components/lessons/Lesson'
-import LessonNav from '../components/navbars/LessonNav'
+import Lesson from '../components/lessons/lesson'
+import LessonNav from '../components/navbars/lessonnav'
 
 const TestLessonOne = ({ data }) => {
   return (

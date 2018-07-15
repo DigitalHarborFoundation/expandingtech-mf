@@ -1,5 +1,5 @@
 import React from 'react'
-import LessonListing from '../components/lessons/LessonListing'
+
 import Link from 'gatsby-link'
 import styled from 'styled-components'
 import mfLogo from './maker-foundations-featured-img.png'

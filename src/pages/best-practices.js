@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import Lesson from '../components/lessons/Lesson'
-import Footer from '../components/Footer'
+import Lesson from '../components/lessons/lesson'
+import Footer from '../components/footer'
 
 const TestLessonTwo = ({ data }) => {
   return (
