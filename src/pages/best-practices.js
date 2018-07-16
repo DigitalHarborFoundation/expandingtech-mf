@@ -1,15 +1,15 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Lesson from '../components/lessons/lesson'
-import Footer from '../components/footer'
+import LessonNav from '../components/navbars/lessonnav'
 
 const TestLessonTwo = ({ data }) => {
   return (
     <div>
       <Lesson lesson={data.wordpressWpLessons} />
-      <Link to="/introduction">Previous Lesson</Link>
-      <Link to="/">Go back to the homepage</Link>
-      <Footer navLinks={{ prev: '/maker-warm-up', next: '/' }} />
+      <LessonNav
+        navLinks={{ prev: '/maker-warm-up', next: '/setting-up-gmail' }}
+      />
     </div>
   )
 }

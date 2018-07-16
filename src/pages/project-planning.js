@@ -1,12 +1,18 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Lesson from '../components/lessons/lesson'
+import LessonNav from '../components/navbars/lessonnav'
 
 const ProjectPlanningLesson = ({ data }) => {
   return (
     <div>
       <Lesson lesson={data.wordpressWpLessons} />
-      <Link to="/">Go back to the homepage</Link>
+      <LessonNav
+        navLinks={{
+          prev: '/design-process',
+          next: '/why-documentation-is-important',
+        }}
+      />
     </div>
   )
 }

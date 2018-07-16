@@ -5,7 +5,12 @@ const DocumentationMethodsPhotosVideoLesson = ({ data }) => {
   return (
     <div>
       <Lesson lesson={data.wordpressWpLessons} />
-      <Link to="/">Go back to the homepage</Link>
+      <LessonNav
+        navLinks={{
+          prev: '/documentation-methods-photos-video',
+          next: '/documentation-methods-makers-reflections',
+        }}
+      />
     </div>
   )
 }
