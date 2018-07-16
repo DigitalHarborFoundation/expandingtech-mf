@@ -9,7 +9,7 @@ const DocumentationMethodsMakersReflectionLesson = ({ data }) => {
       <Lesson lesson={data.wordpressWpLessons} />
       <LessonNav
         navLinks={{
-          prev: '/documentation-methods-makers-reflections',
+          prev: '/documentation-methods-photos-video',
           next: '/document-your-first-project',
         }}
       />
