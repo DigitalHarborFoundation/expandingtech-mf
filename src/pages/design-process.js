@@ -7,10 +7,11 @@ const DesignProcessLesson = ({ data }) => {
   return (
     <div>
       <Lesson lesson={data.wordpressWpLessons} />
-      navLinks={{
-        prev: '/design-process',
-        next: '/project-planning',
-      }}
+      <LessonNav
+        navLinks={{
+          prev: '/design-process',
+          next: '/project-planning',
+        }}
       />
     </div>
   )
