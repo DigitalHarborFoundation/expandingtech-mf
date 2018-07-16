@@ -26,6 +26,8 @@ const LessonContainer = styled.main`
   a {
     color: #0091c9;
     font-family: avenir;
+    text-decoration: none;
+    transition: color 0.5s ease;
   }
 
   a:hover {
