@@ -8,8 +8,8 @@ const WhyDocumentationIsImportantLesson = ({ data }) => {
       <Lesson lesson={data.wordpressWpLessons} />
       <LessonNav
         navLinks={{
-          prev: '/introduction-graphic-design-gimp.js',
-          next: '/gimp-pixel-art-character-illustration.js',
+          prev: '/introduction-graphic-design-gimp',
+          next: '/gimp-pixel-art-character-illustration',
         }}
       />
     </div>

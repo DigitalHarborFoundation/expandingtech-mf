@@ -8,8 +8,8 @@ const IntroductionGraphicDesignLesson = ({ data }) => {
       <Lesson lesson={data.wordpressWpLessons} />
       <LessonNav
         navLinks={{
-          prev: '/document-your-first-project.js',
-          next: '/gimp-basics.js',
+          prev: '/document-your-first-project',
+          next: '/gimp-basics',
         }}
       />
     </div>
