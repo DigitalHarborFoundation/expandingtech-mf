@@ -114,6 +114,16 @@ const CourseNavbar = ({ props }) => {
                 Pixel Art Character Illustration: Going Further
               </CourseNavLink>
             </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/gimp-creating-animations">
+                Gimp: Creating Animations
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/graphic-design-gimp-mini-project">
+                Graphic Design With Gimp Mini Project
+              </CourseNavLink>
+            </CourseNavEntry>
           </ul>
         </CourseNavList>
       </CourseNavbarNav>
