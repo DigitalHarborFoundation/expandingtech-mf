@@ -1,5 +1,21 @@
 {
   "assetsByChunkName": {
+    "component---src-pages-scratch-intermediate-skills-js": [
+      "component---src-pages-scratch-intermediate-skills-js-769a914af086bbedfc63.js",
+      "component---src-pages-scratch-intermediate-skills-js-769a914af086bbedfc63.js.map"
+    ],
+    "path---using-scratch-to-remix": [
+      "path---using-scratch-to-remix-feb961250d4fdec797e5.js",
+      "path---using-scratch-to-remix-feb961250d4fdec797e5.js.map"
+    ],
+    "path---gimp-pixel-art-character-illustration-going-further": [
+      "path---gimp-pixel-art-character-illustration-going-further-4c92ed36a02b4b3f3ea2.js",
+      "path---gimp-pixel-art-character-illustration-going-further-4c92ed36a02b4b3f3ea2.js.map"
+    ],
+    "path---getting-started-with-tinkercad": [
+      "path---getting-started-with-tinkercad-87bc55e9b1fc85672684.js",
+      "path---getting-started-with-tinkercad-87bc55e9b1fc85672684.js.map"
+    ],
     "component---src-pages-google-drive-google-docs-js": [
       "component---src-pages-google-drive-google-docs-js-5c67e6fee3eb19e8b954.js",
       "component---src-pages-google-drive-google-docs-js-5c67e6fee3eb19e8b954.js.map"
@@ -7,6 +23,10 @@
     "component---src-pages-documentation-methods-photos-video-js": [
       "component---src-pages-documentation-methods-photos-video-js-3be5cfd19c7a92d9cf6e.js",
       "component---src-pages-documentation-methods-photos-video-js-3be5cfd19c7a92d9cf6e.js.map"
+    ],
+    "component---src-pages-gimp-pixel-art-character-illustration-going-further-js": [
+      "component---src-pages-gimp-pixel-art-character-illustration-going-further-js-3732aa6ddc509f6c4a7d.js",
+      "component---src-pages-gimp-pixel-art-character-illustration-going-further-js-3732aa6ddc509f6c4a7d.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-ce91b96c4ef021759af0.js",
@@ -20,6 +40,10 @@
       "component---src-pages-setting-up-gmail-js-a4f48953c7a687815c29.js",
       "component---src-pages-setting-up-gmail-js-a4f48953c7a687815c29.js.map"
     ],
+    "path---gimp-pixel-art-character-illustration": [
+      "path---gimp-pixel-art-character-illustration-e05820d93808982637ca.js",
+      "path---gimp-pixel-art-character-illustration-e05820d93808982637ca.js.map"
+    ],
     "path---maker-warm-up": [
       "path---maker-warm-up-c9313d9672b56ccfc79c.js",
       "path---maker-warm-up-c9313d9672b56ccfc79c.js.map"
@@ -29,16 +53,40 @@
       "component---src-pages-documentation-methods-makers-reflection-js-2d3c4ff15d5814397300.js.map"
     ],
     "path---": [
-      "path----ecb69d0d1f94f29ccad0.js",
-      "path----ecb69d0d1f94f29ccad0.js.map"
+      "path----7b5c923033536715913a.js",
+      "path----7b5c923033536715913a.js.map"
     ],
     "component---src-pages-why-documentation-is-important-js": [
       "component---src-pages-why-documentation-is-important-js-f72b4ded145ab01844a6.js",
       "component---src-pages-why-documentation-is-important-js-f72b4ded145ab01844a6.js.map"
     ],
+    "path---tinkercad-make-custom-keychain": [
+      "path---tinkercad-make-custom-keychain-a9e1eb4903052e601cdc.js",
+      "path---tinkercad-make-custom-keychain-a9e1eb4903052e601cdc.js.map"
+    ],
+    "component---src-pages-game-development-mini-project-js": [
+      "component---src-pages-game-development-mini-project-js-4a73b5861628111cc93c.js",
+      "component---src-pages-game-development-mini-project-js-4a73b5861628111cc93c.js.map"
+    ],
+    "path---what-is-3-d-printing": [
+      "path---what-is-3-d-printing-e0edd7a4b9b7035fb6a7.js",
+      "path---what-is-3-d-printing-e0edd7a4b9b7035fb6a7.js.map"
+    ],
     "path---google-drive-google-docs": [
       "path---google-drive-google-docs-b61aac7280440142eff9.js",
       "path---google-drive-google-docs-b61aac7280440142eff9.js.map"
+    ],
+    "component---src-pages-gimp-creating-animations-js": [
+      "component---src-pages-gimp-creating-animations-js-30ac1be147daac7fcd25.js",
+      "component---src-pages-gimp-creating-animations-js-30ac1be147daac7fcd25.js.map"
+    ],
+    "path---3-d-printing-uses": [
+      "path---3-d-printing-uses-d13e17d441f015606fd9.js",
+      "path---3-d-printing-uses-d13e17d441f015606fd9.js.map"
+    ],
+    "component---src-pages-3-d-printing-mini-project-js": [
+      "component---src-pages-3-d-printing-mini-project-js-b27af0d44935330475cf.js",
+      "component---src-pages-3-d-printing-mini-project-js-b27af0d44935330475cf.js.map"
     ],
     "component---src-pages-document-your-first-project-js": [
       "component---src-pages-document-your-first-project-js-555b7f44e48d4f8fc776.js",
@@ -56,21 +104,41 @@
       "path---get-to-know-your-browser-afdc9227f65f9d52f05c.js",
       "path---get-to-know-your-browser-afdc9227f65f9d52f05c.js.map"
     ],
+    "component---src-pages-introduction-graphic-design-gimp-js": [
+      "component---src-pages-introduction-graphic-design-gimp-js-40cad10751ebaad74f53.js",
+      "component---src-pages-introduction-graphic-design-gimp-js-40cad10751ebaad74f53.js.map"
+    ],
     "component---src-pages-design-process-js": [
       "component---src-pages-design-process-js-6d45ea8e53f3dca882ae.js",
       "component---src-pages-design-process-js-6d45ea8e53f3dca882ae.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-017b73505885d4e3ceb7.js",
-      "component---src-layouts-index-js-017b73505885d4e3ceb7.js.map"
+      "component---src-layouts-index-js-099a6ae2e7aec669f292.js",
+      "component---src-layouts-index-js-099a6ae2e7aec669f292.js.map"
+    ],
+    "component---src-pages-getting-started-with-tinkercad-js": [
+      "component---src-pages-getting-started-with-tinkercad-js-e2606113a9875dff186a.js",
+      "component---src-pages-getting-started-with-tinkercad-js-e2606113a9875dff186a.js.map"
     ],
     "path---documentation-methods-photos-video": [
       "path---documentation-methods-photos-video-cb0919cdafbe0835a702.js",
       "path---documentation-methods-photos-video-cb0919cdafbe0835a702.js.map"
     ],
+    "path---scratch-basic-skills": [
+      "path---scratch-basic-skills-cf2793cc50353197ba3c.js",
+      "path---scratch-basic-skills-cf2793cc50353197ba3c.js.map"
+    ],
+    "component---src-pages-graphic-design-gimp-mini-project-js": [
+      "component---src-pages-graphic-design-gimp-mini-project-js-bacbb48cf5f987bc6225.js",
+      "component---src-pages-graphic-design-gimp-mini-project-js-bacbb48cf5f987bc6225.js.map"
+    ],
     "path---course": [
       "path---course-a0e39f21c11f6a62c5ab.js",
       "path---course-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-gimp-and-scratch-js": [
+      "component---src-pages-gimp-and-scratch-js-a08634759f59ac461af5.js",
+      "component---src-pages-gimp-and-scratch-js-a08634759f59ac461af5.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
@@ -80,9 +148,29 @@
       "path---setting-up-gmail-70b85984495d370ef7ce.js",
       "path---setting-up-gmail-70b85984495d370ef7ce.js.map"
     ],
+    "component---src-pages-gimp-basics-js": [
+      "component---src-pages-gimp-basics-js-7c84e3bf8809b74f0df1.js",
+      "component---src-pages-gimp-basics-js-7c84e3bf8809b74f0df1.js.map"
+    ],
+    "component---src-pages-using-scratch-to-remix-js": [
+      "component---src-pages-using-scratch-to-remix-js-3a40c720f4d934a99e6e.js",
+      "component---src-pages-using-scratch-to-remix-js-3a40c720f4d934a99e6e.js.map"
+    ],
+    "path---scratch-intermediate-skills": [
+      "path---scratch-intermediate-skills-e709e197662d2e721a83.js",
+      "path---scratch-intermediate-skills-e709e197662d2e721a83.js.map"
+    ],
+    "component---src-pages-gimp-pixel-art-character-illustration-js": [
+      "component---src-pages-gimp-pixel-art-character-illustration-js-95d8d5bf0eeb52dbf4f4.js",
+      "component---src-pages-gimp-pixel-art-character-illustration-js-95d8d5bf0eeb52dbf4f4.js.map"
+    ],
     "path---index": [
-      "path---index-f301ab5e9ee8e5bf5546.js",
-      "path---index-f301ab5e9ee8e5bf5546.js.map"
+      "path---index-fec33e686dec6c438e0c.js",
+      "path---index-fec33e686dec6c438e0c.js.map"
+    ],
+    "component---src-pages-tinkercad-design-model-landmark-js": [
+      "component---src-pages-tinkercad-design-model-landmark-js-bf5a470ea4948d726d95.js",
+      "component---src-pages-tinkercad-design-model-landmark-js-bf5a470ea4948d726d95.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -92,6 +180,10 @@
       "path---introduction-d00e80515c589efec719.js",
       "path---introduction-d00e80515c589efec719.js.map"
     ],
+    "component---src-pages-gimp-saving-your-work-js": [
+      "component---src-pages-gimp-saving-your-work-js-d7cec7ffdcd9dc5a5aa0.js",
+      "component---src-pages-gimp-saving-your-work-js-d7cec7ffdcd9dc5a5aa0.js.map"
+    ],
     "component---src-pages-introduction-js": [
       "component---src-pages-introduction-js-8321b0eb4f886f650efb.js",
       "component---src-pages-introduction-js-8321b0eb4f886f650efb.js.map"
@@ -99,6 +191,10 @@
     "commons": [
       "commons-bb8233a8242a252b9381.js",
       "commons-bb8233a8242a252b9381.js.map"
+    ],
+    "component---src-pages-3-d-printing-uses-js": [
+      "component---src-pages-3-d-printing-uses-js-cc5974585589b893334b.js",
+      "component---src-pages-3-d-printing-uses-js-cc5974585589b893334b.js.map"
     ],
     "component---src-pages-effective-email-js": [
       "component---src-pages-effective-email-js-001ff7509c9e595b5fda.js",
@@ -108,9 +204,37 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---gimp-saving-your-work": [
+      "path---gimp-saving-your-work-c061bb435e51ea7b48c9.js",
+      "path---gimp-saving-your-work-c061bb435e51ea7b48c9.js.map"
+    ],
+    "path---gimp-and-scratch": [
+      "path---gimp-and-scratch-b4aa1d7ceabf0c3054fb.js",
+      "path---gimp-and-scratch-b4aa1d7ceabf0c3054fb.js.map"
+    ],
     "component---src-pages-get-to-know-your-browser-js": [
       "component---src-pages-get-to-know-your-browser-js-2685023579ecbc5ec291.js",
       "component---src-pages-get-to-know-your-browser-js-2685023579ecbc5ec291.js.map"
+    ],
+    "component---src-pages-tinkercad-make-custom-keychain-js": [
+      "component---src-pages-tinkercad-make-custom-keychain-js-746a8bded8b0ac81cdb8.js",
+      "component---src-pages-tinkercad-make-custom-keychain-js-746a8bded8b0ac81cdb8.js.map"
+    ],
+    "component---src-pages-what-is-3-d-printing-js": [
+      "component---src-pages-what-is-3-d-printing-js-7ec322845df077a63215.js",
+      "component---src-pages-what-is-3-d-printing-js-7ec322845df077a63215.js.map"
+    ],
+    "component---src-pages-using-scratch-to-make-games-js": [
+      "component---src-pages-using-scratch-to-make-games-js-4d4a3da1ef7a70adcfbf.js",
+      "component---src-pages-using-scratch-to-make-games-js-4d4a3da1ef7a70adcfbf.js.map"
+    ],
+    "path---using-scratch-to-make-games": [
+      "path---using-scratch-to-make-games-1a003927a64a52db503b.js",
+      "path---using-scratch-to-make-games-1a003927a64a52db503b.js.map"
+    ],
+    "path---3-d-printing-mini-project": [
+      "path---3-d-printing-mini-project-6639e07e35e5bcd5f350.js",
+      "path---3-d-printing-mini-project-6639e07e35e5bcd5f350.js.map"
     ],
     "path---project-planning": [
       "path---project-planning-6099088be447b16c6060.js",
@@ -124,10 +248,26 @@
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
     ],
+    "path---graphic-design-gimp-mini-project": [
+      "path---graphic-design-gimp-mini-project-f885824e85178e84c2de.js",
+      "path---graphic-design-gimp-mini-project-f885824e85178e84c2de.js.map"
+    ],
+    "path---introduction-graphic-design-gimp": [
+      "path---introduction-graphic-design-gimp-6c2899f88fda0f91e515.js",
+      "path---introduction-graphic-design-gimp-6c2899f88fda0f91e515.js.map"
+    ],
+    "path---tinkercad-design-model-landmark": [
+      "path---tinkercad-design-model-landmark-be1aa172ea9e821e9c9b.js",
+      "path---tinkercad-design-model-landmark-be1aa172ea9e821e9c9b.js.map"
+    ],
+    "path---game-development-mini-project": [
+      "path---game-development-mini-project-9261ae4447d1f138ac46.js",
+      "path---game-development-mini-project-9261ae4447d1f138ac46.js.map"
+    ],
     "app": [
-      "app-130824ba20116f14a721.js",
+      "app-0ee63a36a43e64d1fa05.js",
       "build-js-styles.css",
-      "app-130824ba20116f14a721.js.map",
+      "app-0ee63a36a43e64d1fa05.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-documenting-with-google-drive-js": [
@@ -146,9 +286,21 @@
       "path---document-your-first-project-7be46040656fe2555d12.js",
       "path---document-your-first-project-7be46040656fe2555d12.js.map"
     ],
+    "component---src-pages-scratch-basic-skills-js": [
+      "component---src-pages-scratch-basic-skills-js-d3c7486a2b64823e9c0f.js",
+      "component---src-pages-scratch-basic-skills-js-d3c7486a2b64823e9c0f.js.map"
+    ],
+    "path---gimp-creating-animations": [
+      "path---gimp-creating-animations-f885824e85178e84c2de.js",
+      "path---gimp-creating-animations-f885824e85178e84c2de.js.map"
+    ],
     "component---src-pages-maker-warm-up-js": [
       "component---src-pages-maker-warm-up-js-d50b6b0bf8481c5b630d.js",
       "component---src-pages-maker-warm-up-js-d50b6b0bf8481c5b630d.js.map"
+    ],
+    "path---gimp-basics": [
+      "path---gimp-basics-097fa81aa2a34d3aec48.js",
+      "path---gimp-basics-097fa81aa2a34d3aec48.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
