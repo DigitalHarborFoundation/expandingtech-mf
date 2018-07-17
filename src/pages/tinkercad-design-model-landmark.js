@@ -2,25 +2,25 @@ import React from 'react'
 import Lesson from '../components/lessons/lesson'
 import LessonNav from '../components/navbars/lessonnav'
 
-const GameDevelopmentMiniProject = ({ data }) => {
+const TinkercadDesignModelLandmark = ({ data }) => {
   return (
     <div>
       <Lesson lesson={data.wordpressWpLessons} />
       <LessonNav
         navLinks={{
-          prev: '/gimp-and-scratch',
-          next: '/what-is-3d-printing',
+          prev: '/tinkercad-make-custom-keychain',
+          next: '/3d-printing-mini-project',
         }}
       />
     </div>
   )
 }
 
-export default GameDevelopmentMiniProject
+export default TinkercadDesignModelLandmark
 
 export const lessonsQuery = graphql`
-  query queryGameDevelopmentMiniProject {
-    wordpressWpLessons(wordpress_id: { eq: 117 }) {
+  query queryTinkercadDesignModelLandmark {
+    wordpressWpLessons(wordpress_id: { eq: 6088 }) {
       id
       wordpress_id
       title

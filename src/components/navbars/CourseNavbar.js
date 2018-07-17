@@ -177,7 +177,7 @@ const CourseNavbar = ({ props }) => {
             </CourseNavEntry>
             <CourseNavEntry>
               <CourseNavLink to="/tinkercad-make-a-custom-keychain">
-                Tinkercad: Making a Custom Keychain
+                Tinkercad: Make a Custom Keychain
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
