@@ -158,6 +158,39 @@ const CourseNavbar = ({ props }) => {
               </CourseNavLink>
             </CourseNavEntry>
           </ul>
+          <ModuleTitle>3D Printing for Beginners</ModuleTitle>
+          <ul>
+            <CourseNavEntry>
+              <CourseNavLink to="/what-is-3d-printing">
+                What is 3D Printing?
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/3d-printing-uses">
+                3D Printing Uses
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/getting-starated-with-tinkercad">
+                Getting Started With Tinkercad
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/tinkercad-make-a-custom-keychain">
+                Tinkercad: Making a Custom Keychain
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/tinkercad-design-model-landmark">
+                Tinkercad: Design a Model of a Landmark
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/3d-printing-mini-project">
+                3D Printing Mini Project
+              </CourseNavLink>
+            </CourseNavEntry>
+          </ul>
         </CourseNavList>
       </CourseNavbarNav>
     </CourseNavbarContainer>
