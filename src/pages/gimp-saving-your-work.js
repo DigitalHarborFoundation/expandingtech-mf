@@ -2,21 +2,21 @@ import React from 'react'
 import Lesson from '../components/lessons/lesson'
 import LessonNav from '../components/navbars/lessonnav'
 
-const WhyDocumentationIsImportantLesson = ({ data }) => {
+const GimpSavingYourWorkLesson = ({ data }) => {
   return (
     <div>
       <Lesson lesson={data.wordpressWpLessons} />
       <LessonNav
         navLinks={{
-          prev: '/',
-          next: '/',
+          prev: '/gimp-pixel-art-character-illustration.js',
+          next: '/gimp-pixel-art-character-illustration-going-further.js',
         }}
       />
     </div>
   )
 }
 
-export default WhyDocumentationIsImportantLesson
+export default GimpSavingYourWorkLesson
 
 export const lessonsQuery = graphql`
   query queryGimpSavingYourWork {

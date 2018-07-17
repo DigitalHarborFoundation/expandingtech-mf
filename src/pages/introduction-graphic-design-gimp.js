@@ -2,7 +2,7 @@ import React from 'react'
 import Lesson from '../components/lessons/lesson'
 import LessonNav from '../components/navbars/lessonnav'
 
-const WhyDocumentationIsImportantLesson = ({ data }) => {
+const IntroductionGraphicDesignLesson = ({ data }) => {
   return (
     <div>
       <Lesson lesson={data.wordpressWpLessons} />
@@ -16,7 +16,7 @@ const WhyDocumentationIsImportantLesson = ({ data }) => {
   )
 }
 
-export default WhyDocumentationIsImportantLesson
+export default IntroductionGraphicDesignLesson
 
 export const lessonsQuery = graphql`
   query queryIntroGraphicDesign {
