@@ -9,7 +9,7 @@ const GraphicDesignGimpMiniProject = ({ data }) => {
       <LessonNav
         navLinks={{
           prev: '/gimp-creating-animations',
-          next: '/using-scratch-make-games',
+          next: '/using-scratch-to-make-games',
         }}
       />
     </div>
