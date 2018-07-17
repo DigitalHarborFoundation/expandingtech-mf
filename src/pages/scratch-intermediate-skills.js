@@ -8,7 +8,7 @@ const ScratchIntermediateSkills = ({ data }) => {
       <Lesson lesson={data.wordpressWpLessons} />
       <LessonNav
         navLinks={{
-          prev: '/scratch-basic-skills',
+          prev: '/using-scratch-to-remix',
           next: '/gimp-and-scratch',
         }}
       />

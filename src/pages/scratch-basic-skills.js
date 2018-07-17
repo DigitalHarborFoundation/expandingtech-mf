@@ -2,13 +2,13 @@ import React from 'react'
 import Lesson from '../components/lessons/lesson'
 import LessonNav from '../components/navbars/lessonnav'
 
-const ScrachBasicSkills = ({ data }) => {
+const ScratchBasicSkills = ({ data }) => {
   return (
     <div>
       <Lesson lesson={data.wordpressWpLessons} />
       <LessonNav
         navLinks={{
-          prev: '/graphic-design-gimp-mini-project',
+          prev: '/using-scratch-to-make-games',
           next: '/scratch-basic-skills',
         }}
       />
@@ -20,7 +20,7 @@ export default ScratchBasicSkills
 
 export const lessonsQuery = graphql`
   query queryScratchBasicSkills {
-    wordpressWpLessons(wordpress_id: { eq: 205 }) {
+    wordpressWpLessons(wordpress_id: { eq: 207 }) {
       id
       wordpress_id
       title
