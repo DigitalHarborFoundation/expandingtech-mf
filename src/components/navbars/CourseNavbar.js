@@ -1,10 +1,31 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
+import {
+  Accordion,
+  AccordionItem,
+  AccordionItemTitle,
+  AccordionItemBody,
+} from 'react-accessible-accordion'
+import 'react-accessible-accordion/dist/fancy-example.css'
 
 const CourseNavbar = ({ props }) => {
   return (
     <CourseNavbarContainer>
+      <Accordion>
+        <ul>
+          <AccordionItem>
+            <AccordionItemTitle>
+              <ModuleTitle>Testing!</ModuleTitle>
+            </AccordionItemTitle>
+            <AccordionItemBody>
+              <CourseNavEntry>
+                <CourseNavLink to="/introduction">Testing!</CourseNavLink>
+              </CourseNavEntry>
+            </AccordionItemBody>
+          </AccordionItem>
+        </ul>
+      </Accordion>
       <CourseNavbarNav>
         <CourseNavList>
           <ModuleTitle>Orientation</ModuleTitle>
