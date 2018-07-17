@@ -125,6 +125,39 @@ const CourseNavbar = ({ props }) => {
               </CourseNavLink>
             </CourseNavEntry>
           </ul>
+          <ModuleTitle>Game Development With Scratch</ModuleTitle>
+          <ul>
+            <CourseNavEntry>
+              <CourseNavLink to="introduction-graphic-design-gimp">
+                Using Scratch to Make Games
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/gimp-basics">
+                Scratch Basic Skills
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/gimp-pixel-art-character-illustration">
+                Using Scratch to Remix
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/gimp-saving-your-work">
+                Scratch Intermediate Skills
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/gimp-pixel-art-character-illustration-going-further">
+                Gimp and Scratch
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/gimp-creating-animations">
+                Game Development Mini Project
+              </CourseNavLink>
+            </CourseNavEntry>
+          </ul>
         </CourseNavList>
       </CourseNavbarNav>
     </CourseNavbarContainer>
