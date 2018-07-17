@@ -13,23 +13,14 @@ const CourseNavbar = ({ props }) => {
   return (
     <CourseNavbarContainer>
       <Accordion>
-        <ul>
-          <AccordionItem>
-            <AccordionItemTitle>
-              <ModuleTitle>Testing!</ModuleTitle>
-            </AccordionItemTitle>
-            <AccordionItemBody>
-              <CourseNavEntry>
-                <CourseNavLink to="/introduction">Testing!</CourseNavLink>
-              </CourseNavEntry>
-            </AccordionItemBody>
-          </AccordionItem>
-        </ul>
-      </Accordion>
-      <CourseNavbarNav>
-        <CourseNavList>
-          <ModuleTitle>Orientation</ModuleTitle>
-          <ul>
+        <AccordionItem expanded={true}>
+          <AccordionItemTitle className="accordion__title accordion__title--animated">
+            <div className="u-position-relative">
+              <ModuleTitle>Orientation</ModuleTitle>
+              <div className="accordion__arrow" role="presentation" />
+            </div>
+          </AccordionItemTitle>
+          <AccordionItemBody>
             <CourseNavEntry>
               <CourseNavLink to="/introduction">
                 Welcome to Maker Foundations
@@ -50,9 +41,16 @@ const CourseNavbar = ({ props }) => {
                 Setting Up Gmail
               </CourseNavLink>
             </CourseNavEntry>
-          </ul>
-          <ModuleTitle>Digital Communication</ModuleTitle>
-          <ul>
+          </AccordionItemBody>
+        </AccordionItem>
+        <AccordionItem>
+          <AccordionItemTitle className="accordion__title accordion__title--animated">
+            <div className="u-position-relative">
+              <ModuleTitle>Digital Communication</ModuleTitle>
+              <div className="accordion__arrow" role="presentation" />
+            </div>
+          </AccordionItemTitle>
+          <AccordionItemBody>
             <CourseNavEntry>
               <CourseNavLink to="/effective-email">
                 Effective Email
@@ -68,9 +66,16 @@ const CourseNavbar = ({ props }) => {
                 Get to Know Your Browser
               </CourseNavLink>
             </CourseNavEntry>
-          </ul>
-          <ModuleTitle>Project Planning</ModuleTitle>
-          <ul>
+          </AccordionItemBody>
+        </AccordionItem>
+        <AccordionItem>
+          <AccordionItemTitle className="accordion__title accordion__title--animated">
+            <div className="u-position-relative">
+              <ModuleTitle>Project Planning</ModuleTitle>
+              <div className="accordion__arrow" role="presentation" />
+            </div>
+          </AccordionItemTitle>
+          <AccordionItemBody>
             <CourseNavEntry>
               <CourseNavLink to="/design-process">
                 The Design Process
@@ -81,9 +86,16 @@ const CourseNavbar = ({ props }) => {
                 Project Planning
               </CourseNavLink>
             </CourseNavEntry>
-          </ul>
-          <ModuleTitle>Maker Documentation</ModuleTitle>
-          <ul>
+          </AccordionItemBody>
+        </AccordionItem>
+        <AccordionItem>
+          <AccordionItemTitle className="accordion__title accordion__title--animated">
+            <div className="u-position-relative">
+              <ModuleTitle>Maker Documentation</ModuleTitle>
+              <div className="accordion__arrow" role="presentation" />
+            </div>
+          </AccordionItemTitle>
+          <AccordionItemBody>
             <CourseNavEntry>
               <CourseNavLink to="/why-documentation-is-important">
                 Why Documentation Is Important
@@ -109,111 +121,84 @@ const CourseNavbar = ({ props }) => {
                 Document Your First Project
               </CourseNavLink>
             </CourseNavEntry>
-          </ul>
-          <ModuleTitle>Graphic Design With Gimp</ModuleTitle>
-          <ul>
+          </AccordionItemBody>
+        </AccordionItem>
+        <AccordionItem>
+          <AccordionItemTitle className="accordion__title accordion__title--animated">
+            <div className="u-position-relative">
+              <ModuleTitle>Graphic Design With Gimp</ModuleTitle>
+              <div className="accordion__arrow" role="presentation" />
+            </div>
+          </AccordionItemTitle>
+          <AccordionItemBody>
             <CourseNavEntry>
-              <CourseNavLink to="introduction-graphic-design-gimp">
-                Introduction to Graphic Design and Gimp
+              <CourseNavLink to="/effective-email">
+                Effective Email
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/gimp-basics">Gimp: The Basics</CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/gimp-pixel-art-character-illustration">
-                Gimp: Pixel Art Character Illustration
+              <CourseNavLink to="/google-drive-google-docs">
+                Google Drive & Google Docs
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/gimp-saving-your-work">
-                Gimp: Saving Your Work
+              <CourseNavLink to="/get-to-know-your-browser">
+                Get to Know Your Browser
+              </CourseNavLink>
+            </CourseNavEntry>
+          </AccordionItemBody>
+        </AccordionItem>
+        <AccordionItem>
+          <AccordionItemTitle className="accordion__title accordion__title--animated">
+            <div className="u-position-relative">
+              <ModuleTitle>Game Development With Scratch</ModuleTitle>
+              <div className="accordion__arrow" role="presentation" />
+            </div>
+          </AccordionItemTitle>
+          <AccordionItemBody>
+            <CourseNavEntry>
+              <CourseNavLink to="/effective-email">
+                Effective Email
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/gimp-pixel-art-character-illustration-going-further">
-                Pixel Art Character Illustration: Going Further
+              <CourseNavLink to="/google-drive-google-docs">
+                Google Drive & Google Docs
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/gimp-creating-animations">
-                Gimp: Creating Animations
+              <CourseNavLink to="/get-to-know-your-browser">
+                Get to Know Your Browser
+              </CourseNavLink>
+            </CourseNavEntry>
+          </AccordionItemBody>
+        </AccordionItem>
+        <AccordionItem>
+          <AccordionItemTitle className="accordion__title accordion__title--animated">
+            <div className="u-position-relative">
+              <ModuleTitle>3D Printing for Beginners</ModuleTitle>
+              <div className="accordion__arrow" role="presentation" />
+            </div>
+          </AccordionItemTitle>
+          <AccordionItemBody>
+            <CourseNavEntry>
+              <CourseNavLink to="/effective-email">
+                Effective Email
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/graphic-design-gimp-mini-project">
-                Graphic Design With Gimp Mini Project
-              </CourseNavLink>
-            </CourseNavEntry>
-          </ul>
-          <ModuleTitle>Game Development With Scratch</ModuleTitle>
-          <ul>
-            <CourseNavEntry>
-              <CourseNavLink to="/using-scratch-to-make-games">
-                Using Scratch to Make Games
+              <CourseNavLink to="/google-drive-google-docs">
+                Google Drive & Google Docs
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/scratch-basic-skills">
-                Scratch Basic Skills
+              <CourseNavLink to="/get-to-know-your-browser">
+                Get to Know Your Browser
               </CourseNavLink>
             </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/using-scratch-to-remix">
-                Using Scratch to Remix
-              </CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/scratch-intermediate-skills">
-                Scratch Intermediate Skills
-              </CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/gimp-and-scratch">
-                Gimp and Scratch
-              </CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/game-development-mini-project">
-                Game Development Mini Project
-              </CourseNavLink>
-            </CourseNavEntry>
-          </ul>
-          <ModuleTitle>3D Printing for Beginners</ModuleTitle>
-          <ul>
-            <CourseNavEntry>
-              <CourseNavLink to="/what-is-3d-printing">
-                What is 3D Printing?
-              </CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/3d-printing-uses">
-                3D Printing Uses
-              </CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/getting-starated-with-tinkercad">
-                Getting Started With Tinkercad
-              </CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/tinkercad-make-a-custom-keychain">
-                Tinkercad: Make a Custom Keychain
-              </CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/tinkercad-design-model-landmark">
-                Tinkercad: Design a Model of a Landmark
-              </CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/3d-printing-mini-project">
-                3D Printing Mini Project
-              </CourseNavLink>
-            </CourseNavEntry>
-          </ul>
-        </CourseNavList>
-      </CourseNavbarNav>
+          </AccordionItemBody>
+        </AccordionItem>
+      </Accordion>
     </CourseNavbarContainer>
   )
 }
@@ -242,6 +227,7 @@ const CourseNavEntry = styled.li`
   list-style-type: none;
   padding-bottom: 5px;
   margin-bottom: 0px;
+  margin-left: 1.25rem;
 `
 
 const CourseNavLink = styled(Link)`
@@ -263,6 +249,7 @@ const CourseNavLink = styled(Link)`
 const ModuleTitle = styled.p`
   margin-bottom: 10px;
   margin-left: 0px;
+  padding-right: 3rem;
   font-size: 1.25rem;
   font-weight: bolder;
 `
