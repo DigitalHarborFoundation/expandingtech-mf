@@ -8,8 +8,8 @@ const GraphicDesignGimpMiniProject = ({ data }) => {
       <Lesson lesson={data.wordpressWpLessons} />
       <LessonNav
         navLinks={{
-          prev: '/gimp-creating-animations.js',
-          next: '/using-scratch-make-games.js',
+          prev: '/gimp-creating-animations',
+          next: '/using-scratch-make-games',
         }}
       />
     </div>

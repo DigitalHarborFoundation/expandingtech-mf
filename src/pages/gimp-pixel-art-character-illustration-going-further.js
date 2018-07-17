@@ -8,8 +8,8 @@ const GimpPixelArtCharacterIllustrationGoingFurtherLesson = ({ data }) => {
       <Lesson lesson={data.wordpressWpLessons} />
       <LessonNav
         navLinks={{
-          prev: '/gimp-saving-your-work.js',
-          next: '/gimp-creating-animations.js',
+          prev: '/gimp-saving-your-work',
+          next: '/gimp-creating-animations',
         }}
       />
     </div>
