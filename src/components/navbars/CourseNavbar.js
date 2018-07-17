@@ -89,31 +89,29 @@ const CourseNavbar = ({ props }) => {
               </CourseNavLink>
             </CourseNavEntry>
           </ul>
-          <ModuleTitle>Maker Documentation</ModuleTitle>
+          <ModuleTitle>Graphic Design With Gimp</ModuleTitle>
           <ul>
             <CourseNavEntry>
-              <CourseNavLink to="/why-documentation-is-important">
-                Why Documentation Is Important
+              <CourseNavLink to="introduction-graphic-design-gimp">
+                Introduction to Graphic Design and Gimp
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/documenting-with-google-drive">
-                Documenting With Google Drive
+              <CourseNavLink to="/gimp-basics">Gimp: The Basics</CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/gimp-pixel-art-character-illustration">
+                Gimp: Pixel Art Character Illustration
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/documentation-methods-photos-video">
-                Documentation Methods: Photos and Video
+              <CourseNavLink to="/gimp-saving-your-work">
+                Gimp: Saving Your Work
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/documentation-methods-makers-reflection">
-                Documentation Methods: Maker's Reflections
-              </CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/document-your-first-project">
-                Document Your First Project
+              <CourseNavLink to="/gimp-pixel-art-character-illustration-going-further">
+                Pixel Art Character Illustration: Going Further
               </CourseNavLink>
             </CourseNavEntry>
           </ul>
