@@ -9,7 +9,7 @@ const ScratchBasicSkills = ({ data }) => {
       <LessonNav
         navLinks={{
           prev: '/using-scratch-to-make-games',
-          next: '/scratch-basic-skills',
+          next: '/using-scratch-to-remix',
         }}
       />
     </div>
