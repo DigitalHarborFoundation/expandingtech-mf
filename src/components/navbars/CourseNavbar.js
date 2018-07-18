@@ -285,33 +285,54 @@ const CourseNavbar = ({ props }) => {
           </AccordionItemTitle>
           <AccordionItemBody>
             <CourseNavEntry>
-              <CourseNavLink to="/what-is-3d-printing">
-                What is 3D Printing?
+              <CourseNavLink to="/wireframe-basics">
+                Wireframe Basics
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/3d-printing-uses">
-                3D Printing Uses
+              <CourseNavLink to="/project-creating-personal-wireframe">
+                Project: Creating a Personal Wireframe
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/getting-started-with-tinkercad">
-                Getting Started With Tinkercad
+              <CourseNavLink to="/introducing-html-css">
+                Introducing HTML and CSS
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/tinkercad-make-custom-keychain">
-                Tinkercad: Make a Custom Keychain
+              <CourseNavLink to="/introducing-thimble">
+                Introducing Thimble
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/tinkercad-design-model-landmark">
-                Tinkercad: Design a Model of a Landmark
+              <CourseNavLink to="/html-basics">HTML Basics</CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/common-html-elements">
+                Common HTML Elements
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/3d-printing-mini-project">
-                3D Printing Mini Project
+              <CourseNavLink to="/activity-building-html-basics">
+                Activity: Building HTML Basics
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/css-basics">CSS Basics</CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/practicing-css-part-1">
+                Activity: Practicing CSS Part 1
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/web-development-mini-project">
+                Web Development Mini Project
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/practicing-css-part-2">
+                Activity: Practicing CSS Part 2
               </CourseNavLink>
             </CourseNavEntry>
           </AccordionItemBody>
