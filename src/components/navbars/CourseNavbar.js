@@ -270,7 +270,7 @@ const CourseNavbar = ({ props }) => {
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/intro-to-circuits-mini-project">
+              <CourseNavLink to="/introduction-to-circuits-mini-project">
                 Introduction to Circuits Mini Project
               </CourseNavLink>
             </CourseNavEntry>
