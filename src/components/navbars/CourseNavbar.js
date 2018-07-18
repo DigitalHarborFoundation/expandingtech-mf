@@ -132,18 +132,36 @@ const CourseNavbar = ({ props }) => {
           </AccordionItemTitle>
           <AccordionItemBody>
             <CourseNavEntry>
-              <CourseNavLink to="/effective-email">
-                Effective Email
+              <CourseNavLink to="/introduction-graphic-design-gimp">
+                Introduction to Graphic Design and Gimp
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/google-drive-google-docs">
-                Google Drive & Google Docs
+              <CourseNavLink to="/gimp-basics">Gimp: The Basics</CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/gimp-pixel-art-character-illustration">
+                Gimp: Pixel Art Character Illustration
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/get-to-know-your-browser">
-                Get to Know Your Browser
+              <CourseNavLink to="/gimp-saving-your-work">
+                Gimp: Saving Your Work
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/gimp-pixel-art-character-illustration-going-further">
+                Pixel Art Character Illustration: Going Further
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/gimp-creating-animations">
+                Gimp: Creating Animations
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/graphic-design-gimp-mini-project">
+                Graphic Design With Gimp Mini Project
               </CourseNavLink>
             </CourseNavEntry>
           </AccordionItemBody>
@@ -157,18 +175,28 @@ const CourseNavbar = ({ props }) => {
           </AccordionItemTitle>
           <AccordionItemBody>
             <CourseNavEntry>
-              <CourseNavLink to="/effective-email">
-                Effective Email
+              <CourseNavLink to="/scratch-basic-skills">
+                Scratch Basic Skills
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/google-drive-google-docs">
-                Google Drive & Google Docs
+              <CourseNavLink to="/using-scratch-to-remix">
+                Using Scratch to Remix
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/get-to-know-your-browser">
-                Get to Know Your Browser
+              <CourseNavLink to="/scratch-intermediate-skills">
+                Scratch Intermediate Skills
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/gimp-and-scratch">
+                Gimp and Scratch
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/game-development-mini-project">
+                Game Development Mini Project
               </CourseNavLink>
             </CourseNavEntry>
           </AccordionItemBody>
@@ -182,18 +210,33 @@ const CourseNavbar = ({ props }) => {
           </AccordionItemTitle>
           <AccordionItemBody>
             <CourseNavEntry>
-              <CourseNavLink to="/effective-email">
-                Effective Email
+              <CourseNavLink to="/what-is-3d-printing">
+                What is 3D Printing?
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/google-drive-google-docs">
-                Google Drive & Google Docs
+              <CourseNavLink to="/3d-printing-uses">
+                3D Printing Uses
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/get-to-know-your-browser">
-                Get to Know Your Browser
+              <CourseNavLink to="/getting-started-with-tinkercad">
+                Getting Started With Tinkercad
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/tinkercad-make-custom-keychain">
+                Tinkercad: Make a Custom Keychain
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/tinkercad-design-model-landmark">
+                Tinkercad: Design a Model of a Landmark
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/3d-printing-mini-project">
+                3D Printing Mini Project
               </CourseNavLink>
             </CourseNavEntry>
           </AccordionItemBody>
