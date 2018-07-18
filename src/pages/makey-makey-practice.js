@@ -9,7 +9,7 @@ const MakeyMakeyPractice = ({ data }) => {
       <LessonNav
         navLinks={{
           prev: '/introduction-to-soundplant',
-          next: '/intro-to-circuits-mini-project',
+          next: '/introduction-to-circuits-mini-project',
         }}
       />
     </div>
