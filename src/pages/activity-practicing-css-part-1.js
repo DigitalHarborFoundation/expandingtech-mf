@@ -2,25 +2,25 @@ import React from 'react'
 import Lesson from '../components/lessons/lesson'
 import LessonNav from '../components/navbars/lessonnav'
 
-const IntroducingThimble = ({ data }) => {
+const ActivityPracticingCSSPart1 = ({ data }) => {
   return (
     <div>
       <Lesson lesson={data.wordpressWpLessons} />
       <LessonNav
         navLinks={{
-          prev: '/introducing-html-css',
-          next: '/html-basics',
+          prev: '/css-basics',
+          next: '/web-development-mini-project',
         }}
       />
     </div>
   )
 }
 
-export default IntroducingThimble
+export default ActivityPracticingCSSPart1
 
 export const lessonsQuery = graphql`
-  query queryIntroducingThimble {
-    wordpressWpLessons(wordpress_id: { eq: 6398 }) {
+  query queryActivityPracticingCSSPart1 {
+    wordpressWpLessons(wordpress_id: { eq: 6685 }) {
       id
       wordpress_id
       title
