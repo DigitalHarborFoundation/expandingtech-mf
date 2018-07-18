@@ -9,7 +9,7 @@ const IntroductionToCircuitsMiniProject = ({ data }) => {
       <LessonNav
         navLinks={{
           prev: '/makey-makey-practice',
-          next: '/',
+          next: '/wireframe-basics',
         }}
       />
     </div>
