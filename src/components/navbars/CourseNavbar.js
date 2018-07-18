@@ -241,6 +241,121 @@ const CourseNavbar = ({ props }) => {
             </CourseNavEntry>
           </AccordionItemBody>
         </AccordionItem>
+        <AccordionItem>
+          <AccordionItemTitle className="accordion__title accordion__title--animated">
+            <div className="u-position-relative">
+              <ModuleTitle>Introduction to Circuits</ModuleTitle>
+              <div className="accordion__arrow" role="presentation" />
+            </div>
+          </AccordionItemTitle>
+          <AccordionItemBody>
+            <CourseNavEntry>
+              <CourseNavLink to="/introduction-to-circuits">
+                Introduction to Circuits
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/makey-makey-circuit-board">
+                Makey Makey: A Circuit Board
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/introduction-to-soundplant">
+                Introduction to Soundplant
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/makey-makey-practice">
+                Makey Makey Practice
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/intro-to-circuits-mini-project">
+                Introduction to Circuits Mini Project
+              </CourseNavLink>
+            </CourseNavEntry>
+          </AccordionItemBody>
+        </AccordionItem>
+        <AccordionItem>
+          <AccordionItemTitle className="accordion__title accordion__title--animated">
+            <div className="u-position-relative">
+              <ModuleTitle>Web Development</ModuleTitle>
+              <div className="accordion__arrow" role="presentation" />
+            </div>
+          </AccordionItemTitle>
+          <AccordionItemBody>
+            <CourseNavEntry>
+              <CourseNavLink to="/what-is-3d-printing">
+                What is 3D Printing?
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/3d-printing-uses">
+                3D Printing Uses
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/getting-started-with-tinkercad">
+                Getting Started With Tinkercad
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/tinkercad-make-custom-keychain">
+                Tinkercad: Make a Custom Keychain
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/tinkercad-design-model-landmark">
+                Tinkercad: Design a Model of a Landmark
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/3d-printing-mini-project">
+                3D Printing Mini Project
+              </CourseNavLink>
+            </CourseNavEntry>
+          </AccordionItemBody>
+        </AccordionItem>
+        <AccordionItem>
+          <AccordionItemTitle className="accordion__title accordion__title--animated">
+            <div className="u-position-relative">
+              <ModuleTitle>Capstone Project</ModuleTitle>
+              <div className="accordion__arrow" role="presentation" />
+            </div>
+          </AccordionItemTitle>
+          <AccordionItemBody>
+            <CourseNavEntry>
+              <CourseNavLink to="/what-is-3d-printing">
+                What is 3D Printing?
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/3d-printing-uses">
+                3D Printing Uses
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/getting-started-with-tinkercad">
+                Getting Started With Tinkercad
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/tinkercad-make-custom-keychain">
+                Tinkercad: Make a Custom Keychain
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/tinkercad-design-model-landmark">
+                Tinkercad: Design a Model of a Landmark
+              </CourseNavLink>
+            </CourseNavEntry>
+            <CourseNavEntry>
+              <CourseNavLink to="/3d-printing-mini-project">
+                3D Printing Mini Project
+              </CourseNavLink>
+            </CourseNavEntry>
+          </AccordionItemBody>
+        </AccordionItem>
       </Accordion>
     </CourseNavbarContainer>
   )
