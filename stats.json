@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---part-two-capstone-project-work": [
+      "path---part-two-capstone-project-work-b34775061f1284d0475b.js",
+      "path---part-two-capstone-project-work-b34775061f1284d0475b.js.map"
+    ],
     "component---src-pages-scratch-intermediate-skills-js": [
       "component---src-pages-scratch-intermediate-skills-js-769a914af086bbedfc63.js",
       "component---src-pages-scratch-intermediate-skills-js-769a914af086bbedfc63.js.map"
@@ -8,9 +12,25 @@
       "path---using-scratch-to-remix-feb961250d4fdec797e5.js",
       "path---using-scratch-to-remix-feb961250d4fdec797e5.js.map"
     ],
+    "component---src-pages-project-creating-personal-wireframe-js": [
+      "component---src-pages-project-creating-personal-wireframe-js-6c01adab605f29bed072.js",
+      "component---src-pages-project-creating-personal-wireframe-js-6c01adab605f29bed072.js.map"
+    ],
+    "path---html-basics": [
+      "path---html-basics-c9c1f7e4176bbd8ed970.js",
+      "path---html-basics-c9c1f7e4176bbd8ed970.js.map"
+    ],
+    "path---part-one-capstone-project-planning": [
+      "path---part-one-capstone-project-planning-854360df30f7eced8d80.js",
+      "path---part-one-capstone-project-planning-854360df30f7eced8d80.js.map"
+    ],
     "path---gimp-pixel-art-character-illustration-going-further": [
       "path---gimp-pixel-art-character-illustration-going-further-4c92ed36a02b4b3f3ea2.js",
       "path---gimp-pixel-art-character-illustration-going-further-4c92ed36a02b4b3f3ea2.js.map"
+    ],
+    "path---introduction-to-circuits-mini-project": [
+      "path---introduction-to-circuits-mini-project-dfbf275d624efc3ac948.js",
+      "path---introduction-to-circuits-mini-project-dfbf275d624efc3ac948.js.map"
     ],
     "path---getting-started-with-tinkercad": [
       "path---getting-started-with-tinkercad-87bc55e9b1fc85672684.js",
@@ -40,6 +60,10 @@
       "component---src-pages-setting-up-gmail-js-a4f48953c7a687815c29.js",
       "component---src-pages-setting-up-gmail-js-a4f48953c7a687815c29.js.map"
     ],
+    "path---web-development-mini-project": [
+      "path---web-development-mini-project-f46cd3bc532b5107936e.js",
+      "path---web-development-mini-project-f46cd3bc532b5107936e.js.map"
+    ],
     "path---gimp-pixel-art-character-illustration": [
       "path---gimp-pixel-art-character-illustration-e05820d93808982637ca.js",
       "path---gimp-pixel-art-character-illustration-e05820d93808982637ca.js.map"
@@ -68,6 +92,14 @@
       "component---src-pages-game-development-mini-project-js-4a73b5861628111cc93c.js",
       "component---src-pages-game-development-mini-project-js-4a73b5861628111cc93c.js.map"
     ],
+    "component---src-pages-activity-practicing-css-part-1-js": [
+      "component---src-pages-activity-practicing-css-part-1-js-c68b3e9a1f86a02b4eb1.js",
+      "component---src-pages-activity-practicing-css-part-1-js-c68b3e9a1f86a02b4eb1.js.map"
+    ],
+    "path---introduction-to-circuits": [
+      "path---introduction-to-circuits-700eb980f1b179002697.js",
+      "path---introduction-to-circuits-700eb980f1b179002697.js.map"
+    ],
     "path---what-is-3-d-printing": [
       "path---what-is-3-d-printing-e0edd7a4b9b7035fb6a7.js",
       "path---what-is-3-d-printing-e0edd7a4b9b7035fb6a7.js.map"
@@ -84,13 +116,29 @@
       "path---3-d-printing-uses-d13e17d441f015606fd9.js",
       "path---3-d-printing-uses-d13e17d441f015606fd9.js.map"
     ],
+    "component---src-pages-activity-building-html-basics-js": [
+      "component---src-pages-activity-building-html-basics-js-9a3b664d09fec8d618a5.js",
+      "component---src-pages-activity-building-html-basics-js-9a3b664d09fec8d618a5.js.map"
+    ],
     "component---src-pages-3-d-printing-mini-project-js": [
       "component---src-pages-3-d-printing-mini-project-js-b27af0d44935330475cf.js",
       "component---src-pages-3-d-printing-mini-project-js-b27af0d44935330475cf.js.map"
     ],
+    "path---css-basics": [
+      "path---css-basics-3a33a4184cf56dc933e8.js",
+      "path---css-basics-3a33a4184cf56dc933e8.js.map"
+    ],
+    "component---src-pages-part-one-capstone-project-planning-js": [
+      "component---src-pages-part-one-capstone-project-planning-js-37f6e393865e54484336.js",
+      "component---src-pages-part-one-capstone-project-planning-js-37f6e393865e54484336.js.map"
+    ],
     "component---src-pages-document-your-first-project-js": [
       "component---src-pages-document-your-first-project-js-555b7f44e48d4f8fc776.js",
       "component---src-pages-document-your-first-project-js-555b7f44e48d4f8fc776.js.map"
+    ],
+    "path---activity-practicing-css-part-2": [
+      "path---activity-practicing-css-part-2-999d3561b80bf9e3a98a.js",
+      "path---activity-practicing-css-part-2-999d3561b80bf9e3a98a.js.map"
     ],
     "path---documentation-methods-makers-reflection": [
       "path---documentation-methods-makers-reflection-5d1e9bb4c9c8cb754c14.js",
@@ -113,8 +161,12 @@
       "component---src-pages-design-process-js-6d45ea8e53f3dca882ae.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-099a6ae2e7aec669f292.js",
-      "component---src-layouts-index-js-099a6ae2e7aec669f292.js.map"
+      "component---src-layouts-index-js-beecbc11241765787650.js",
+      "component---src-layouts-index-js-beecbc11241765787650.js.map"
+    ],
+    "component---src-pages-css-basics-js": [
+      "component---src-pages-css-basics-js-2d4c1f870f2025269dd2.js",
+      "component---src-pages-css-basics-js-2d4c1f870f2025269dd2.js.map"
     ],
     "component---src-pages-getting-started-with-tinkercad-js": [
       "component---src-pages-getting-started-with-tinkercad-js-e2606113a9875dff186a.js",
@@ -123,6 +175,18 @@
     "path---documentation-methods-photos-video": [
       "path---documentation-methods-photos-video-cb0919cdafbe0835a702.js",
       "path---documentation-methods-photos-video-cb0919cdafbe0835a702.js.map"
+    ],
+    "path---makey-makey-circuit-board": [
+      "path---makey-makey-circuit-board-c94a43d12a464a02ca84.js",
+      "path---makey-makey-circuit-board-c94a43d12a464a02ca84.js.map"
+    ],
+    "path---project-creating-personal-wireframe": [
+      "path---project-creating-personal-wireframe-673a693a3dd9e8fb3739.js",
+      "path---project-creating-personal-wireframe-673a693a3dd9e8fb3739.js.map"
+    ],
+    "component---src-pages-introduction-to-circuits-mini-project-js": [
+      "component---src-pages-introduction-to-circuits-mini-project-js-dcc5747cdc832c78d5ff.js",
+      "component---src-pages-introduction-to-circuits-mini-project-js-dcc5747cdc832c78d5ff.js.map"
     ],
     "path---scratch-basic-skills": [
       "path---scratch-basic-skills-cf2793cc50353197ba3c.js",
@@ -152,6 +216,10 @@
       "component---src-pages-gimp-basics-js-7c84e3bf8809b74f0df1.js",
       "component---src-pages-gimp-basics-js-7c84e3bf8809b74f0df1.js.map"
     ],
+    "path---wireframe-basics": [
+      "path---wireframe-basics-05a49fa83145d8e822d6.js",
+      "path---wireframe-basics-05a49fa83145d8e822d6.js.map"
+    ],
     "component---src-pages-using-scratch-to-remix-js": [
       "component---src-pages-using-scratch-to-remix-js-3a40c720f4d934a99e6e.js",
       "component---src-pages-using-scratch-to-remix-js-3a40c720f4d934a99e6e.js.map"
@@ -168,9 +236,33 @@
       "path---index-fec33e686dec6c438e0c.js",
       "path---index-fec33e686dec6c438e0c.js.map"
     ],
+    "path---common-html-elements": [
+      "path---common-html-elements-166ff544bc865cf5a66e.js",
+      "path---common-html-elements-166ff544bc865cf5a66e.js.map"
+    ],
+    "component---src-pages-makey-makey-practice-js": [
+      "component---src-pages-makey-makey-practice-js-456cd231da15b199ec54.js",
+      "component---src-pages-makey-makey-practice-js-456cd231da15b199ec54.js.map"
+    ],
+    "component---src-pages-html-basics-js": [
+      "component---src-pages-html-basics-js-e4d04be88ff7db03aef4.js",
+      "component---src-pages-html-basics-js-e4d04be88ff7db03aef4.js.map"
+    ],
     "component---src-pages-tinkercad-design-model-landmark-js": [
       "component---src-pages-tinkercad-design-model-landmark-js-bf5a470ea4948d726d95.js",
       "component---src-pages-tinkercad-design-model-landmark-js-bf5a470ea4948d726d95.js.map"
+    ],
+    "component---src-pages-wireframe-basics-js": [
+      "component---src-pages-wireframe-basics-js-c21f37bce9ff7927ece1.js",
+      "component---src-pages-wireframe-basics-js-c21f37bce9ff7927ece1.js.map"
+    ],
+    "component---src-pages-part-three-capstone-project-reflection-js": [
+      "component---src-pages-part-three-capstone-project-reflection-js-99b49927721e25d8d529.js",
+      "component---src-pages-part-three-capstone-project-reflection-js-99b49927721e25d8d529.js.map"
+    ],
+    "path---activity-building-html-basics": [
+      "path---activity-building-html-basics-548939bb44b633e439b0.js",
+      "path---activity-building-html-basics-548939bb44b633e439b0.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -189,12 +281,22 @@
       "component---src-pages-introduction-js-8321b0eb4f886f650efb.js.map"
     ],
     "commons": [
-      "commons-bb8233a8242a252b9381.js",
-      "commons-bb8233a8242a252b9381.js.map"
+      "commons-73f5b247646773b80f73.js",
+      "build-js-styles.css",
+      "commons-73f5b247646773b80f73.js.map",
+      "build-js-styles.css.map"
     ],
     "component---src-pages-3-d-printing-uses-js": [
       "component---src-pages-3-d-printing-uses-js-cc5974585589b893334b.js",
       "component---src-pages-3-d-printing-uses-js-cc5974585589b893334b.js.map"
+    ],
+    "path---makey-makey-practice": [
+      "path---makey-makey-practice-f3948441eaa5a8211838.js",
+      "path---makey-makey-practice-f3948441eaa5a8211838.js.map"
+    ],
+    "component---src-pages-introducing-html-css-js": [
+      "component---src-pages-introducing-html-css-js-8a4f107d367473695d22.js",
+      "component---src-pages-introducing-html-css-js-8a4f107d367473695d22.js.map"
     ],
     "component---src-pages-effective-email-js": [
       "component---src-pages-effective-email-js-001ff7509c9e595b5fda.js",
@@ -224,9 +326,25 @@
       "component---src-pages-what-is-3-d-printing-js-7ec322845df077a63215.js",
       "component---src-pages-what-is-3-d-printing-js-7ec322845df077a63215.js.map"
     ],
+    "component---src-pages-part-two-capstone-project-work-js": [
+      "component---src-pages-part-two-capstone-project-work-js-5e2aae0b1a55d802b8ec.js",
+      "component---src-pages-part-two-capstone-project-work-js-5e2aae0b1a55d802b8ec.js.map"
+    ],
     "component---src-pages-using-scratch-to-make-games-js": [
       "component---src-pages-using-scratch-to-make-games-js-4d4a3da1ef7a70adcfbf.js",
       "component---src-pages-using-scratch-to-make-games-js-4d4a3da1ef7a70adcfbf.js.map"
+    ],
+    "component---src-pages-common-html-elements-js": [
+      "component---src-pages-common-html-elements-js-628ed7836ab30e23f130.js",
+      "component---src-pages-common-html-elements-js-628ed7836ab30e23f130.js.map"
+    ],
+    "path---introduction-to-soundplant": [
+      "path---introduction-to-soundplant-73893d7e67eab26cf4e5.js",
+      "path---introduction-to-soundplant-73893d7e67eab26cf4e5.js.map"
+    ],
+    "component---src-pages-introducing-thimble-js": [
+      "component---src-pages-introducing-thimble-js-ee55b7aded4e2c696a73.js",
+      "component---src-pages-introducing-thimble-js-ee55b7aded4e2c696a73.js.map"
     ],
     "path---using-scratch-to-make-games": [
       "path---using-scratch-to-make-games-1a003927a64a52db503b.js",
@@ -240,9 +358,21 @@
       "path---project-planning-6099088be447b16c6060.js",
       "path---project-planning-6099088be447b16c6060.js.map"
     ],
+    "component---src-pages-web-development-mini-project-js": [
+      "component---src-pages-web-development-mini-project-js-467b8841e67c0c00981e.js",
+      "component---src-pages-web-development-mini-project-js-467b8841e67c0c00981e.js.map"
+    ],
     "component---src-pages-best-practices-js": [
       "component---src-pages-best-practices-js-1949a3042cab587f2d68.js",
       "component---src-pages-best-practices-js-1949a3042cab587f2d68.js.map"
+    ],
+    "component---src-pages-makey-makey-circuit-board-js": [
+      "component---src-pages-makey-makey-circuit-board-js-835240ca1cc8c3850146.js",
+      "component---src-pages-makey-makey-circuit-board-js-835240ca1cc8c3850146.js.map"
+    ],
+    "component---src-pages-introduction-to-soundplant-js": [
+      "component---src-pages-introduction-to-soundplant-js-25cf4b786ffea13076a1.js",
+      "component---src-pages-introduction-to-soundplant-js-25cf4b786ffea13076a1.js.map"
     ],
     "component---src-pages-page-2-js": [
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
@@ -265,14 +395,22 @@
       "path---game-development-mini-project-9261ae4447d1f138ac46.js.map"
     ],
     "app": [
-      "app-0ee63a36a43e64d1fa05.js",
+      "app-f20e388e8e7583ea47cd.js",
       "build-js-styles.css",
-      "app-0ee63a36a43e64d1fa05.js.map",
+      "app-f20e388e8e7583ea47cd.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-documenting-with-google-drive-js": [
       "component---src-pages-documenting-with-google-drive-js-8c875d6c2a7093863443.js",
       "component---src-pages-documenting-with-google-drive-js-8c875d6c2a7093863443.js.map"
+    ],
+    "component---src-pages-introduction-to-circuits-js": [
+      "component---src-pages-introduction-to-circuits-js-9f5f3f13923ba0bbb2e6.js",
+      "component---src-pages-introduction-to-circuits-js-9f5f3f13923ba0bbb2e6.js.map"
+    ],
+    "path---introducing-thimble": [
+      "path---introducing-thimble-6c8d097bb6ec7ae2a565.js",
+      "path---introducing-thimble-6c8d097bb6ec7ae2a565.js.map"
     ],
     "component---src-pages-course-js": [
       "component---src-pages-course-js-b719f8a31a5d4ca41b5d.js",
@@ -298,6 +436,10 @@
       "component---src-pages-maker-warm-up-js-d50b6b0bf8481c5b630d.js",
       "component---src-pages-maker-warm-up-js-d50b6b0bf8481c5b630d.js.map"
     ],
+    "path---part-three-capstone-project-reflection": [
+      "path---part-three-capstone-project-reflection-04349aa89119373b479b.js",
+      "path---part-three-capstone-project-reflection-04349aa89119373b479b.js.map"
+    ],
     "path---gimp-basics": [
       "path---gimp-basics-097fa81aa2a34d3aec48.js",
       "path---gimp-basics-097fa81aa2a34d3aec48.js.map"
@@ -309,6 +451,10 @@
     "path---documenting-with-google-drive": [
       "path---documenting-with-google-drive-371958bb8b4ef721c617.js",
       "path---documenting-with-google-drive-371958bb8b4ef721c617.js.map"
+    ],
+    "component---src-pages-activity-practicing-css-part-2-js": [
+      "component---src-pages-activity-practicing-css-part-2-js-8d9619dec3eaf2dcfc47.js",
+      "component---src-pages-activity-practicing-css-part-2-js-8d9619dec3eaf2dcfc47.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-ffcfbc731dee519465ce.js",
@@ -322,9 +468,17 @@
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---introducing-html-css": [
+      "path---introducing-html-css-95dd838f3b7801736242.js",
+      "path---introducing-html-css-95dd838f3b7801736242.js.map"
+    ],
     "path---effective-email": [
       "path---effective-email-584d4154395550fbc67f.js",
       "path---effective-email-584d4154395550fbc67f.js.map"
+    ],
+    "path---activity-practicing-css-part-1": [
+      "path---activity-practicing-css-part-1-ded08866c734dba0ca52.js",
+      "path---activity-practicing-css-part-1-ded08866c734dba0ca52.js.map"
     ]
   }
 }
