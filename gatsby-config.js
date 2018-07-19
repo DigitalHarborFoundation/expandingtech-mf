@@ -9,7 +9,6 @@ module.exports = {
     {
       resolve: `gatsby-plugin-purify-css`,
       options: {
-        styleId: 'gatsby-in'
         purifyOptions: {
           info: true,
           minify: true,
