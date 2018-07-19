@@ -9,7 +9,7 @@ const ActivityPracticingCSSPart2 = ({ data }) => {
       <LessonNav
         navLinks={{
           prev: '/web-development-mini-project',
-          next: '#',
+          next: '/part-one-capstone-project-planning',
         }}
       />
     </div>
