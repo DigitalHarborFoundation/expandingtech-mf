@@ -346,33 +346,21 @@ const CourseNavbar = ({ props }) => {
           </AccordionItemTitle>
           <AccordionItemBody>
             <CourseNavEntry>
-              <CourseNavLink to="/what-is-3d-printing">
-                What is 3D Printing?
+              <CourseNavLink to="/part-one-capstone-project-planning">
+                Part One: Capstone Project Planning
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/3d-printing-uses">
-                3D Printing Uses
+              <CourseNavLink to="/part-two-capstone-project-work">
+                Part Two: Capstone Project Work
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/getting-started-with-tinkercad">
-                Getting Started With Tinkercad
-              </CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/tinkercad-make-custom-keychain">
-                Tinkercad: Make a Custom Keychain
-              </CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/tinkercad-design-model-landmark">
-                Tinkercad: Design a Model of a Landmark
-              </CourseNavLink>
-            </CourseNavEntry>
-            <CourseNavEntry>
-              <CourseNavLink to="/3d-printing-mini-project">
-                3D Printing Mini Project
+              <CourseNavLink
+                to="/part-three-capstone-project-reflection
+              "
+              >
+                Part Three: Capstone Project Reflection
               </CourseNavLink>
             </CourseNavEntry>
           </AccordionItemBody>
