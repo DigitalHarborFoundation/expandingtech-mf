@@ -16,7 +16,7 @@ module.exports = {
         background_color: '#fff',
         theme_color: '#0091c9',
         display: 'minimal-ui',
-        icon: '/pages/maker-foundations-featured-img.png',
+        icon: 'src/pages/maker-foundations-featured-img.png',
       },
     },
     {
