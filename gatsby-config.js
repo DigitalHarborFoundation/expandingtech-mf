@@ -7,6 +7,16 @@ module.exports = {
     'gatsby-plugin-styled-components',
     'gatsby-plugin-netlify',
     {
+      resolve: `gatsby-plugin-purify-css`,
+      options: {
+        styleId: 'gatsby-in'
+        purifyOptions: {
+          info: true,
+          minify: true,
+        },
+      },
+    },
+    {
       resolve: `gatsby-source-wordpress`,
       options: {
         baseUrl: `learn.digitalharbor.org`,
