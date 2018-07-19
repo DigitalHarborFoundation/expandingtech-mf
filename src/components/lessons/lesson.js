@@ -1,5 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
+import './crayon.min.css'
+import './monokai.css'
 
 const Lesson = ({ lesson }) => (
   <div>
