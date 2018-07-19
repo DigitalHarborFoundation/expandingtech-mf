@@ -356,10 +356,7 @@ const CourseNavbar = ({ props }) => {
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink
-                to="/part-three-capstone-project-reflection
-              "
-              >
+              <CourseNavLink to="/part-three-capstone-project-reflection">
                 Part Three: Capstone Project Reflection
               </CourseNavLink>
             </CourseNavEntry>
