@@ -6,6 +6,19 @@ module.exports = {
   plugins: [
     'gatsby-plugin-styled-components',
     'gatsby-plugin-netlify',
+    'gatsby-plugin-offline',
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: 'Digital Harbor Foundation: Maker Foundations',
+        short_name: 'DHF Maker Foundations',
+        start_url: '/',
+        background_color: '#fff',
+        theme_color: '#0091c9',
+        display: 'minimal-ui',
+        icon: '/pages/maker-foundations-featured-img.png',
+      },
+    },
     {
       resolve: `gatsby-plugin-purify-css`,
       options: {
