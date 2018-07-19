@@ -17,8 +17,8 @@
       "component---src-pages-project-creating-personal-wireframe-js-6c01adab605f29bed072.js.map"
     ],
     "path---html-basics": [
-      "path---html-basics-c9c1f7e4176bbd8ed970.js",
-      "path---html-basics-c9c1f7e4176bbd8ed970.js.map"
+      "path---html-basics-c61b4fec51655ee90b07.js",
+      "path---html-basics-c61b4fec51655ee90b07.js.map"
     ],
     "path---part-one-capstone-project-planning": [
       "path---part-one-capstone-project-planning-854360df30f7eced8d80.js",
@@ -120,13 +120,17 @@
       "component---src-pages-activity-building-html-basics-js-9a3b664d09fec8d618a5.js",
       "component---src-pages-activity-building-html-basics-js-9a3b664d09fec8d618a5.js.map"
     ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
     "component---src-pages-3-d-printing-mini-project-js": [
       "component---src-pages-3-d-printing-mini-project-js-b27af0d44935330475cf.js",
       "component---src-pages-3-d-printing-mini-project-js-b27af0d44935330475cf.js.map"
     ],
     "path---css-basics": [
-      "path---css-basics-3a33a4184cf56dc933e8.js",
-      "path---css-basics-3a33a4184cf56dc933e8.js.map"
+      "path---css-basics-6c7a8b03846787cf609c.js",
+      "path---css-basics-6c7a8b03846787cf609c.js.map"
     ],
     "component---src-pages-part-one-capstone-project-planning-js": [
       "component---src-pages-part-one-capstone-project-planning-js-37f6e393865e54484336.js",
@@ -237,8 +241,8 @@
       "path---index-fec33e686dec6c438e0c.js.map"
     ],
     "path---common-html-elements": [
-      "path---common-html-elements-166ff544bc865cf5a66e.js",
-      "path---common-html-elements-166ff544bc865cf5a66e.js.map"
+      "path---common-html-elements-c768d866dbc524d1d8f0.js",
+      "path---common-html-elements-c768d866dbc524d1d8f0.js.map"
     ],
     "component---src-pages-makey-makey-practice-js": [
       "component---src-pages-makey-makey-practice-js-456cd231da15b199ec54.js",
@@ -362,6 +366,10 @@
       "component---src-pages-web-development-mini-project-js-467b8841e67c0c00981e.js",
       "component---src-pages-web-development-mini-project-js-467b8841e67c0c00981e.js.map"
     ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-best-practices-js": [
       "component---src-pages-best-practices-js-1949a3042cab587f2d68.js",
       "component---src-pages-best-practices-js-1949a3042cab587f2d68.js.map"
@@ -395,9 +403,9 @@
       "path---game-development-mini-project-9261ae4447d1f138ac46.js.map"
     ],
     "app": [
-      "app-f20e388e8e7583ea47cd.js",
+      "app-cfe414b792d893a47be8.js",
       "build-js-styles.css",
-      "app-f20e388e8e7583ea47cd.js.map",
+      "app-cfe414b792d893a47be8.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-documenting-with-google-drive-js": [
