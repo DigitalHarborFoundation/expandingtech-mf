@@ -1,12 +1,11 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
-import SiteNavbar from '../components/navbars/sitenavbar'
+// import SiteNavbar from '../components/navbars/sitenavbar'
 import SiteLogo from '../components/sitelogo'
 
 const Header = ({ siteTitle }) => (
   <Masthead>
-    <SiteNavbar />
     <SiteTitle>{siteTitle}</SiteTitle>
     <SiteLogo />
   </Masthead>
@@ -17,7 +16,7 @@ export default Header
 const Masthead = styled.div`
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   padding: 20px;
   background-color: #0091c9;
