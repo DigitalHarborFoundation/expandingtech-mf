@@ -63,7 +63,7 @@
 /dhf-learn-gatsby-test/common-html-elements/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---common-html-elements-67f3bab507f7f121baa9.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---common-html-elements-45e1704e679c57d02210.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-common-html-elements-js-628ed7836ab30e23f130.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/course/
@@ -75,7 +75,7 @@
 /dhf-learn-gatsby-test/css-basics/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---css-basics-7e343e9c76965c8c3c35.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---css-basics-daeadaa5b7b464fbc348.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-css-basics-js-2d4c1f870f2025269dd2.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/design-process/
@@ -177,13 +177,13 @@
 /dhf-learn-gatsby-test/graphic-design-gimp-mini-project/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---graphic-design-gimp-mini-project-1e74854d18155adc9505.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---graphic-design-gimp-mini-project-8ebe93c7e3b17c277a6f.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-graphic-design-gimp-mini-project-js-bacbb48cf5f987bc6225.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/html-basics/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---html-basics-fe7fc477a73055678d9f.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---html-basics-8cb998484416f616a4aa.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-html-basics-js-e4d04be88ff7db03aef4.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/
