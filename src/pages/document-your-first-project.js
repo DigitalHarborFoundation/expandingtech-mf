@@ -10,7 +10,7 @@ const DocumentYourFirstProjectLesson = ({ data }) => {
       <LessonNav
         navLinks={{
           prev: '/documentation-methods-makers-reflections',
-          next: '#',
+          next: '/introduction-graphic-design-gimp',
         }}
       />
     </div>
