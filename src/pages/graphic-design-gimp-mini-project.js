@@ -20,7 +20,7 @@ export default GraphicDesignGimpMiniProject
 
 export const lessonsQuery = graphql`
   query queryGraphicDesignGimpMiniProject {
-    wordpressWpLessons(wordpress_id: { eq: 5968 }) {
+    wordpressWpLessons(wordpress_id: { eq: 1132 }) {
       id
       wordpress_id
       title
