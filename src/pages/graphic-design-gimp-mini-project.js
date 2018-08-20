@@ -19,7 +19,7 @@ const GraphicDesignGimpMiniProject = ({ data }) => {
 export default GraphicDesignGimpMiniProject
 
 export const lessonsQuery = graphql`
-  query queryGraphicDesignGimpMiniProject {
+  query queryGraphicDesignGimpMiniProjectFix {
     wordpressWpLessons(wordpress_id: { eq: 1132 }) {
       id
       wordpress_id
