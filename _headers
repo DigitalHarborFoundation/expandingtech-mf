@@ -39,19 +39,19 @@
 /dhf-learn-gatsby-test/activity-building-html-basics/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---activity-building-html-basics-eb0d6a7aa929e95e8c0c.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---activity-building-html-basics-ffdb3d69ec86e80c4983.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-activity-building-html-basics-js-9a3b664d09fec8d618a5.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/activity-practicing-css-part-1/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---activity-practicing-css-part-1-88b5d9ee29b38a779b3c.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---activity-practicing-css-part-1-cccae807f5093da3842d.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-activity-practicing-css-part-1-js-c68b3e9a1f86a02b4eb1.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/activity-practicing-css-part-2/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---activity-practicing-css-part-2-2e7961cc3784b352ed82.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---activity-practicing-css-part-2-8552ea8efa134068643c.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-activity-practicing-css-part-2-js-8d9619dec3eaf2dcfc47.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/best-practices/
@@ -63,7 +63,7 @@
 /dhf-learn-gatsby-test/common-html-elements/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---common-html-elements-45e1704e679c57d02210.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---common-html-elements-712f80c3260ba643e578.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-common-html-elements-js-628ed7836ab30e23f130.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/course/
@@ -75,13 +75,13 @@
 /dhf-learn-gatsby-test/css-basics/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---css-basics-daeadaa5b7b464fbc348.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---css-basics-c82266e3ec73d99f1316.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-css-basics-js-2d4c1f870f2025269dd2.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/design-process/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---design-process-13e705f4c03084514d9a.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---design-process-7052fa9e997f0c4ea573.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-design-process-js-6d45ea8e53f3dca882ae.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/document-your-first-project/
@@ -129,7 +129,7 @@
 /dhf-learn-gatsby-test/getting-started-with-tinkercad/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---getting-started-with-tinkercad-fc50f026e3ef114be5a7.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---getting-started-with-tinkercad-b268aec805511329b904.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-getting-started-with-tinkercad-js-e2606113a9875dff186a.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/gimp-and-scratch/
@@ -147,13 +147,13 @@
 /dhf-learn-gatsby-test/gimp-creating-animations/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---gimp-creating-animations-1e74854d18155adc9505.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---gimp-creating-animations-a0b7f752b3945df9a153.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-gimp-creating-animations-js-30ac1be147daac7fcd25.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/gimp-pixel-art-character-illustration-going-further/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---gimp-pixel-art-character-illustration-going-further-17a5a069d65c7ef4d211.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---gimp-pixel-art-character-illustration-going-further-48641aac4bc4907427c8.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-gimp-pixel-art-character-illustration-going-further-js-3732aa6ddc509f6c4a7d.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/gimp-pixel-art-character-illustration/
@@ -165,7 +165,7 @@
 /dhf-learn-gatsby-test/gimp-saving-your-work/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---gimp-saving-your-work-014ca366c844f46ea9db.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---gimp-saving-your-work-3549cde0f7028b4f3db2.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-gimp-saving-your-work-js-d7cec7ffdcd9dc5a5aa0.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/google-drive-google-docs/
@@ -183,7 +183,7 @@
 /dhf-learn-gatsby-test/html-basics/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---html-basics-8cb998484416f616a4aa.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---html-basics-196bf9c7ca70b913f701.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-html-basics-js-e4d04be88ff7db03aef4.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/
@@ -201,7 +201,7 @@
 /dhf-learn-gatsby-test/introducing-thimble/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---introducing-thimble-eb201c0959281d3966f2.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---introducing-thimble-930a9ac5cb1421d487e6.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-introducing-thimble-js-ee55b7aded4e2c696a73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/introduction-graphic-design-gimp/
@@ -231,7 +231,7 @@
 /dhf-learn-gatsby-test/introduction/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---introduction-17d7e1e91c9b3db15f30.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---introduction-64b7cbe7494629ad868f.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-introduction-js-8321b0eb4f886f650efb.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/maker-warm-up/
@@ -261,7 +261,7 @@
 /dhf-learn-gatsby-test/part-one-capstone-project-planning/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---part-one-capstone-project-planning-854360df30f7eced8d80.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---part-one-capstone-project-planning-812608a529567f2977a9.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-part-one-capstone-project-planning-js-37f6e393865e54484336.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/part-three-capstone-project-reflection/
@@ -303,19 +303,19 @@
 /dhf-learn-gatsby-test/setting-up-gmail/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---setting-up-gmail-22ffa7588f8330e6a555.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---setting-up-gmail-5adca10ae6463ab20ee0.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-setting-up-gmail-js-a4f48953c7a687815c29.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/tinkercad-design-model-landmark/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---tinkercad-design-model-landmark-be1aa172ea9e821e9c9b.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---tinkercad-design-model-landmark-ffaffe7840cfad08f784.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-tinkercad-design-model-landmark-js-bf5a470ea4948d726d95.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/tinkercad-make-custom-keychain/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---tinkercad-make-custom-keychain-684781d62cbc05b92553.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---tinkercad-make-custom-keychain-b7856c92f11a769ca530.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-tinkercad-make-custom-keychain-js-746a8bded8b0ac81cdb8.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/using-scratch-to-make-games/
