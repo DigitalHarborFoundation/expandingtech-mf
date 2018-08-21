@@ -63,7 +63,7 @@
 /dhf-learn-gatsby-test/common-html-elements/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---common-html-elements-712f80c3260ba643e578.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---common-html-elements-ae0c301413cf76c0e052.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-common-html-elements-js-628ed7836ab30e23f130.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/course/
@@ -75,7 +75,7 @@
 /dhf-learn-gatsby-test/css-basics/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---css-basics-c82266e3ec73d99f1316.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---css-basics-d6298a5fa5e8931c10ad.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-css-basics-js-2d4c1f870f2025269dd2.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/design-process/
@@ -165,7 +165,7 @@
 /dhf-learn-gatsby-test/gimp-saving-your-work/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---gimp-saving-your-work-3549cde0f7028b4f3db2.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---gimp-saving-your-work-c826c104872ca1451a52.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-gimp-saving-your-work-js-d7cec7ffdcd9dc5a5aa0.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/google-drive-google-docs/
@@ -183,7 +183,7 @@
 /dhf-learn-gatsby-test/html-basics/
   Link: </dhf-learn-gatsby-test/commons-73f5b247646773b80f73.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/app-cfe414b792d893a47be8.js>; rel=preload; as=script
-  Link: </dhf-learn-gatsby-test/path---html-basics-196bf9c7ca70b913f701.js>; rel=preload; as=script
+  Link: </dhf-learn-gatsby-test/path---html-basics-7a68f290844ab2703746.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-pages-html-basics-js-e4d04be88ff7db03aef4.js>; rel=preload; as=script
   Link: </dhf-learn-gatsby-test/component---src-layouts-index-js-f44c06db003154159988.js>; rel=preload; as=script
 /dhf-learn-gatsby-test/
