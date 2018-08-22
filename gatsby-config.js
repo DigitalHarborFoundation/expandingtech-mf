@@ -31,9 +31,9 @@ module.exports = {
     {
       resolve: `gatsby-source-wordpress`,
       options: {
-        baseUrl: `learn.digitalharbor.org`,
+        baseUrl: `learn.digitalharbor.org/`,
 
-        protocol: `http`,
+        protocol: `https`,
 
         hostingWPCOM: false,
         useACF: true,

@@ -321,7 +321,7 @@ const CourseNavbar = ({ props }) => {
               <CourseNavLink to="/css-basics">CSS Basics</CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/practicing-css-part-1">
+              <CourseNavLink to="/activity-practicing-css-part-1">
                 Activity: Practicing CSS Part 1
               </CourseNavLink>
             </CourseNavEntry>
@@ -331,7 +331,7 @@ const CourseNavbar = ({ props }) => {
               </CourseNavLink>
             </CourseNavEntry>
             <CourseNavEntry>
-              <CourseNavLink to="/practicing-css-part-2">
+              <CourseNavLink to="/activity-practicing-css-part-2">
                 Activity: Practicing CSS Part 2
               </CourseNavLink>
             </CourseNavEntry>
