@@ -5,7 +5,6 @@ module.exports = {
   pathPrefix: '/expandingtech-mf/',
   plugins: [
     'gatsby-plugin-styled-components',
-    'gatsby-plugin-netlify',
     'gatsby-plugin-offline',
     {
       resolve: `gatsby-plugin-manifest`,
